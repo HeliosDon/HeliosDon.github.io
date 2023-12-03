@@ -200,6 +200,10 @@ p {
     text-decoration: none;
   }
 
+footer {
+    color: gray;
+}
+
 .note {
     color: gray
 }
