@@ -1,0 +1,47 @@
+{% extends "template.html" %}
+{% block content %}
+
+  <header id="hero" class="hero">
+    <div class="flex-container w-container">
+      <div>
+        <h1>Add an expense</h1>
+        <a href="{{ url_for('addExpenses') }}" class="button-8 w-button">Add an Expense</a>
+      </div>
+    </div>
+  </header>
+<section id="feature-section" class="feature-section">
+    <div class="flex-container w-container">
+      <div>
+        <h2>Track your expenses</h2>
+        <p>You Have Spent a Total of $! That's a Lot! </p>
+
+        <h2>By category</h2>
+        <p>
+          You have spent {{ total_cost.rent() }} on Rent.
+        </p>
+        <p>
+          You have spent {{ total_cost.electritiy() }} on Electricity.
+        </p>
+        <p>
+          You have spent {{ total_cost.water() }} on Water.
+        </p>
+        <p>
+          You have spent {{ total_cost.gas() }} on Gas.
+        </p>
+        <p>
+          You have spent {{ total_cost.insurance() }} on Insurance.
+        </p>
+        <p>
+          You have spent {{ total_cost.food() }} on Food.
+        </p>
+        <p>
+          You have spent {{ total_cost.school() }} on School.
+        </p>
+        <p>
+          You have spent {{ total_cost.misc() }} on Miscellaneous expenses.
+        </p>
+      </div>
+    </div>
+  </section>
+
+{% endblock %}

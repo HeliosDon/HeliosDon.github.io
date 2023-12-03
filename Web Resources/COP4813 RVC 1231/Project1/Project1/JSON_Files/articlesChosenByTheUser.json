@@ -1,0 +1,2575 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+  "section": "Automobiles",
+  "last_updated": "2023-02-24T11:08:46-05:00",
+  "num_results": 40,
+  "results": [
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Lucid Steps Up Production as Supply Chain Problems Ease",
+      "abstract": "The maker of electric luxury sedans said it made more than 7,000 cars in 2022, achieving a scaled-down target.",
+      "url": "https://www.nytimes.com/2023/02/22/business/lucid-electric-cars-earnings.html",
+      "uri": "nyt://article/73cc1f2a-2ede-5206-a05a-57f099be6dbf",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2023-02-23T00:41:53-05:00",
+      "created_date": "2023-02-22T17:56:29-05:00",
+      "published_date": "2023-02-22T17:56:29-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Company Reports",
+        "Stocks and Bonds",
+        "Electric and Hybrid Vehicles",
+        "Automobiles",
+        "Production",
+        "Supply Chain"
+      ],
+      "org_facet": [
+        "Lucid Motors Inc"
+      ],
+      "per_facet": [
+        "Rawlinson, Peter (Automotive Executive)"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22lucid-earnings-tkzl/22lucid-earnings-tkzl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lucid said the easing of supply chain problems helped it ramp up production of its electric vehicles in the fourth quarter.",
+          "copyright": "Bryan Derballa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22lucid-earnings-tkzl/22lucid-earnings-tkzl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lucid said the easing of supply chain problems helped it ramp up production of its electric vehicles in the fourth quarter.",
+          "copyright": "Bryan Derballa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22lucid-earnings-tkzl/22lucid-earnings-tkzl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lucid said the easing of supply chain problems helped it ramp up production of its electric vehicles in the fourth quarter.",
+          "copyright": "Bryan Derballa for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Zh2yvw"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "U.S. Eyes Trade Deals With Allies to Ease Clash Over Electric Car Subsidies",
+      "abstract": "The Biden administration has faced backlash in Europe and Asia over its plans to bolster electric vehicle and battery production.",
+      "url": "https://www.nytimes.com/2023/02/24/business/us-europe-electric-car-subsidies-g20.html",
+      "uri": "nyt://article/712068b9-aba2-50d7-a25c-90f900a524d6",
+      "byline": "By Alan Rappeport",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T14:07:13-05:00",
+      "created_date": "2023-02-24T10:08:39-05:00",
+      "published_date": "2023-02-24T10:08:39-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Batteries",
+        "Tax Credits, Deductions and Exemptions",
+        "Inflation Reduction Act of 2022",
+        "United States Economy",
+        "United States Politics and Government",
+        "International Trade and World Market"
+      ],
+      "org_facet": [
+        "Treasury Department"
+      ],
+      "per_facet": [
+        "Yellen, Janet L",
+        "Biden, Joseph R Jr",
+        "Manchin, Joe III"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24dc-useurope-qltm/24dc-useurope-qltm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1221,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Hunt, Britain\u2019s top finance official, with Treasury Secretary Janet L. Yellen in Bengaluru, India, on Friday. Top European officials have expressed their concerns about the Inflation Reduction Act to Ms. Yellen and other Biden administration officials.",
+          "copyright": "Manjunath Kiran/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24dc-useurope-qltm/24dc-useurope-qltm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Hunt, Britain\u2019s top finance official, with Treasury Secretary Janet L. Yellen in Bengaluru, India, on Friday. Top European officials have expressed their concerns about the Inflation Reduction Act to Ms. Yellen and other Biden administration officials.",
+          "copyright": "Manjunath Kiran/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/24/multimedia/24dc-useurope-qltm/24dc-useurope-qltm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeremy Hunt, Britain\u2019s top finance official, with Treasury Secretary Janet L. Yellen in Bengaluru, India, on Friday. Top European officials have expressed their concerns about the Inflation Reduction Act to Ms. Yellen and other Biden administration officials.",
+          "copyright": "Manjunath Kiran/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xQa9py"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Tesla to Recall 362,000 Cars With Its \u2018Full Self Driving\u2019 System",
+      "abstract": "A federal auto safety agency said the technology can cause crashes, but said the company was unaware of any deaths or injuries caused by the flaws.",
+      "url": "https://www.nytimes.com/2023/02/16/business/tesla-recall-full-self-driving.html",
+      "uri": "nyt://article/f1db5673-2412-549c-b0b2-8218a6a865b9",
+      "byline": "By Neal E. Boudette",
+      "item_type": "Article",
+      "updated_date": "2023-02-17T05:53:31-05:00",
+      "created_date": "2023-02-16T13:26:54-05:00",
+      "published_date": "2023-02-16T13:26:54-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Traffic Accidents and Safety",
+        "Automobiles",
+        "Recalls and Bans of Products",
+        "Driverless and Semiautonomous Vehicles",
+        "Automobile Safety Features and Defects",
+        "Regulation and Deregulation of Industry"
+      ],
+      "org_facet": [
+        "National Highway Traffic Safety Administration",
+        "Tesla Motors Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16SELF-DRIVING-fjhw/16SELF-DRIVING-fjhw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1639,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla agreed to the recall and planned to fix the flaws through an over-the-air update.",
+          "copyright": "Evan Jenkins for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16SELF-DRIVING-fjhw/16SELF-DRIVING-fjhw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla agreed to the recall and planned to fix the flaws through an over-the-air update.",
+          "copyright": "Evan Jenkins for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/16SELF-DRIVING-fjhw/16SELF-DRIVING-fjhw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla agreed to the recall and planned to fix the flaws through an over-the-air update.",
+          "copyright": "Evan Jenkins for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3XGPsqm"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "Just How Good for the Planet Is That Big Electric Pickup Truck?",
+      "abstract": "E.V.s are usually a more climate-friendly option. But as they bulk up, their emissions savings, and other environmental and safety benefits, begin to diminish.",
+      "url": "https://www.nytimes.com/interactive/2023/02/17/climate/electric-vehicle-emissions-truck-suv.html",
+      "uri": "nyt://interactive/0c8897b7-d9c7-5718-a5bc-0992894dbeb7",
+      "byline": "By Elena Shao",
+      "item_type": "Interactive",
+      "updated_date": "2023-02-22T10:32:01-05:00",
+      "created_date": "2023-02-18T05:00:05-05:00",
+      "published_date": "2023-02-18T05:00:05-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Sports Utility Vehicles and Light Trucks",
+        "Electric and Hybrid Vehicles",
+        "Global Warming",
+        "Environment",
+        "Traffic Accidents and Safety",
+        "Greenhouse Gas Emissions"
+      ],
+      "org_facet": [
+        "Ford Motor Co",
+        "Rivian Automotive LLC",
+        "General Motors"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/climate/electric-vehicle-impact-trucks-suvs-promo/electric-vehicle-impact-trucks-suvs-promo-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1333,
+          "width": 2000,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/climate/electric-vehicle-impact-trucks-suvs-promo/electric-vehicle-impact-trucks-suvs-promo-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/climate/electric-vehicle-impact-trucks-suvs-promo/electric-vehicle-impact-trucks-suvs-promo-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3lMnHQ0"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Shoichiro Toyoda, Who Helped Make Toyota a Global Force, Dies at 97",
+      "abstract": "He pushed the company into North America and beyond, setting it on its path to becoming one of the world\u2019s most powerful automakers.",
+      "url": "https://www.nytimes.com/2023/02/16/business/shoichiro-toyoda-dead.html",
+      "uri": "nyt://article/a7313996-5747-505c-b0b4-a9f3c79e2927",
+      "byline": "By Ben Dooley",
+      "item_type": "Article",
+      "updated_date": "2023-02-17T22:32:49-05:00",
+      "created_date": "2023-02-16T02:22:53-05:00",
+      "published_date": "2023-02-16T02:22:53-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobiles",
+        "Deaths (Obituaries)"
+      ],
+      "org_facet": [
+        "Toyota Motor Corp"
+      ],
+      "per_facet": [
+        "Toyoda, Shoichiro"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/15Toyoda1-bvgk-print1/15Toyoda1-bvgk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shoichiro Toyoda, right, in 1998, when he was chairman of Toyota. At left is Hiroshi Okuda, who was then the company president.",
+          "copyright": "Kyodo News, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/15Toyoda1-bvgk-print1/15Toyoda1-bvgk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shoichiro Toyoda, right, in 1998, when he was chairman of Toyota. At left is Hiroshi Okuda, who was then the company president.",
+          "copyright": "Kyodo News, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/15Toyoda1-bvgk-print1/15Toyoda1-bvgk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shoichiro Toyoda, right, in 1998, when he was chairman of Toyota. At left is Hiroshi Okuda, who was then the company president.",
+          "copyright": "Kyodo News, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IpZsQu"
+    },
+    {
+      "section": "business",
+      "subsection": "energy-environment",
+      "title": "Tesla Will Open Some Chargers to All Electric Vehicles",
+      "abstract": "An agreement with the White House to allow electric cars made by other automakers is part of a broad effort to improve charging and increase sales of battery-powered vehicles.",
+      "url": "https://www.nytimes.com/2023/02/15/business/energy-environment/tesla-electric-vehicle-chargers-biden.html",
+      "uri": "nyt://article/c83daf99-d1b6-5062-9b75-0d7137deb24d",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2023-02-16T11:46:08-05:00",
+      "created_date": "2023-02-15T09:19:49-05:00",
+      "published_date": "2023-02-15T09:19:49-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "United States Politics and Government",
+        "Automobiles",
+        "Automobile Service and Charging Stations",
+        "Infrastructure Investment and Jobs Act (2021)",
+        "Road Trips",
+        "Law and Legislation",
+        "Batteries"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Musk, Elon"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15Biden-chargers-bqwg/15Biden-chargers-bqwg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Biden administration said 7,500 Tesla chargers would be open to other vehicles by the end of 2024.",
+          "copyright": "Carter Johnston for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15Biden-chargers-bqwg/15Biden-chargers-bqwg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Biden administration said 7,500 Tesla chargers would be open to other vehicles by the end of 2024.",
+          "copyright": "Carter Johnston for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/15Biden-chargers-bqwg/15Biden-chargers-bqwg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Biden administration said 7,500 Tesla chargers would be open to other vehicles by the end of 2024.",
+          "copyright": "Carter Johnston for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Ford Halts Production of Electric Pickup Over Battery Issue",
+      "abstract": "The automaker cited a potential problem with the battery pack of the F-150 Lightning but said it was unaware of any incidents \u201cin the field.\u201d",
+      "url": "https://www.nytimes.com/2023/02/14/business/ford-f150-lightning-battery.html",
+      "uri": "nyt://article/744e1f9d-ed1d-5842-b29b-42bae90f3adc",
+      "byline": "By Neal E. Boudette",
+      "item_type": "Article",
+      "updated_date": "2023-02-15T09:47:48-05:00",
+      "created_date": "2023-02-14T17:07:48-05:00",
+      "published_date": "2023-02-14T17:07:48-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobiles",
+        "Sports Utility Vehicles and Light Trucks",
+        "Batteries",
+        "Electric and Hybrid Vehicles",
+        "Production",
+        "Shutdowns (Institutional)",
+        "Factories and Manufacturing"
+      ],
+      "org_facet": [
+        "Ford Motor Co"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/14/multimedia/14ford-battery-zfgp/14ford-battery-zfgp-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Ford assembly line in Dearborn, Mich., where the electric F-150 Lightning pickup truck is produced.",
+          "copyright": "Sylvia Jarrus for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/14/multimedia/14ford-battery-zfgp/14ford-battery-zfgp-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Ford assembly line in Dearborn, Mich., where the electric F-150 Lightning pickup truck is produced.",
+          "copyright": "Sylvia Jarrus for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/14/multimedia/14ford-battery-zfgp/14ford-battery-zfgp-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Ford assembly line in Dearborn, Mich., where the electric F-150 Lightning pickup truck is produced.",
+          "copyright": "Sylvia Jarrus for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/40Us1N0"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Carmakers Are Pushing Autonomous Tech. This Engineer Wants Limits.",
+      "abstract": "Missy Cummings, who spent more than a year at the federal auto safety agency, said that drivers were putting too much trust in systems like Tesla\u2019s Autopilot and that regulators needed to restrict their use.",
+      "url": "https://www.nytimes.com/2023/02/15/business/missy-cummings-tesla-autopilot.html",
+      "uri": "nyt://article/943ce7f1-0d13-5b2b-92d9-309f75b7ce8c",
+      "byline": "By Cade Metz",
+      "item_type": "Article",
+      "updated_date": "2023-02-16T00:07:38-05:00",
+      "created_date": "2023-02-15T05:00:35-05:00",
+      "published_date": "2023-02-15T05:00:35-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobile Safety Features and Defects",
+        "Driverless and Semiautonomous Vehicles",
+        "Traffic Accidents and Safety",
+        "Regulation and Deregulation of Industry",
+        "Electric and Hybrid Vehicles"
+      ],
+      "org_facet": [
+        "National Highway Traffic Safety Administration",
+        "General Motors",
+        "Tesla Motors Inc"
+      ],
+      "per_facet": [
+        "Cummings, Missy (1966- )",
+        "Musk, Elon"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/15autonomous-print1/15autonomous-01-jvmk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Missy Cummings, a professor of engineering and computer science, said regulators needed to place more restrictions on how and when driver-assistance systems could be used.",
+          "copyright": "Lexey Swall for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/15autonomous-print1/15autonomous-01-jvmk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Missy Cummings, a professor of engineering and computer science, said regulators needed to place more restrictions on how and when driver-assistance systems could be used.",
+          "copyright": "Lexey Swall for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/15autonomous-print1/15autonomous-01-jvmk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Missy Cummings, a professor of engineering and computer science, said regulators needed to place more restrictions on how and when driver-assistance systems could be used.",
+          "copyright": "Lexey Swall for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Xy7xqo"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Tesla Workers in Buffalo Begin Union Drive",
+      "abstract": "If successful, the workers who help develop Tesla\u2019s Autopilot driver-assistance system will be the first group at the company to organize.",
+      "url": "https://www.nytimes.com/2023/02/14/business/tesla-buffalo-union-autopilot.html",
+      "uri": "nyt://article/33e50f40-ea8e-50ba-beec-675ce83ac7cb",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2023-02-15T00:14:54-05:00",
+      "created_date": "2023-02-14T11:00:00-05:00",
+      "published_date": "2023-02-14T11:00:00-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Organized Labor",
+        "Labor and Jobs",
+        "Driverless and Semiautonomous Vehicles",
+        "Computers and the Internet",
+        "Automobiles",
+        "Workplace Hazards and Violations",
+        "Workplace Environment"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc",
+        "Service Employees International Union",
+        "Workers United",
+        "United Automobile Workers"
+      ],
+      "per_facet": [
+        "Brisack, Jaz",
+        "Musk, Elon"
+      ],
+      "geo_facet": [
+        "Buffalo (NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/14tesla-union-print-gtcw/14tesla-union-gtcw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Tesla factory in Buffalo produces solar panels and components for charging equipment and has hundreds of workers who help develop software for cars.",
+          "copyright": "Brendan Mcdermid/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/14tesla-union-print-gtcw/14tesla-union-gtcw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Tesla factory in Buffalo produces solar panels and components for charging equipment and has hundreds of workers who help develop software for cars.",
+          "copyright": "Brendan Mcdermid/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/15/multimedia/14tesla-union-print-gtcw/14tesla-union-gtcw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Tesla factory in Buffalo produces solar panels and components for charging equipment and has hundreds of workers who help develop software for cars.",
+          "copyright": "Brendan Mcdermid/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3XvJ853"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Electric Vehicles Could Match Gasoline Cars on Price This Year",
+      "abstract": "Competition, government incentives and falling raw material prices are making battery-powered cars more affordable sooner than expected.",
+      "url": "https://www.nytimes.com/2023/02/10/business/electric-vehicles-price-cost.html",
+      "uri": "nyt://article/19f3ce1a-964e-57dd-9683-91a13e86dd42",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2023-02-14T11:23:59-05:00",
+      "created_date": "2023-02-10T11:59:41-05:00",
+      "published_date": "2023-02-10T11:59:41-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Prices (Fares, Fees and Rates)",
+        "Tax Credits, Deductions and Exemptions",
+        "Inflation Reduction Act of 2022",
+        "Batteries",
+        "Factories and Manufacturing",
+        "Automobiles",
+        "Inflation (Economics)",
+        "Sports Utility Vehicles and Light Trucks",
+        "Supply Chain",
+        "International Trade and World Market",
+        "United States Politics and Government",
+        "Lithium (Metal)"
+      ],
+      "org_facet": [
+        "Ford Motor Co",
+        "General Motors",
+        "Hyundai Motor Co",
+        "International Council on Clean Transportation",
+        "Matthews International Corporation",
+        "LG Energy Solution",
+        "Tesla Motors Inc",
+        "Treasury Department"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/14/multimedia/13ev-prices-print1/00ev-prices-03-wztc-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Electric car prices were rising for much of the last year but are now falling as competition intensifies, government incentives kick in and raw material prices decline.",
+          "copyright": "Brittainy Newman/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/14/multimedia/13ev-prices-print1/00ev-prices-03-wztc-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Electric car prices were rising for much of the last year but are now falling as competition intensifies, government incentives kick in and raw material prices decline.",
+          "copyright": "Brittainy Newman/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/14/multimedia/13ev-prices-print1/00ev-prices-03-wztc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Electric car prices were rising for much of the last year but are now falling as competition intensifies, government incentives kick in and raw material prices decline.",
+          "copyright": "Brittainy Newman/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3K36VGx"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Energy Dept. Will Lend $2 Billion to a Battery Component Maker",
+      "abstract": "The loan will help accelerate Redwood Materials\u2019 plans to produce components for electric car batteries from new and recycled sources.",
+      "url": "https://www.nytimes.com/2023/02/09/business/redwood-materials-energy-department-loan.html",
+      "uri": "nyt://article/b0796666-bbc0-5c2d-a06b-8cb9de37a5cb",
+      "byline": "By Niraj Chokshi",
+      "item_type": "Article",
+      "updated_date": "2023-02-12T13:27:26-05:00",
+      "created_date": "2023-02-09T16:43:03-05:00",
+      "published_date": "2023-02-09T16:43:03-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Batteries",
+        "Electric and Hybrid Vehicles",
+        "Factories and Manufacturing",
+        "Automobiles",
+        "Federal Aid (US)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Redwood Materials Inc",
+        "Energy Department"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/09/multimedia/09redwood-wfgc/09redwood-wfgc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Redwood Materials plans to use the government loan to expand an existing campus in Nevada.",
+          "copyright": "Nina Riggio for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/09/multimedia/09redwood-wfgc/09redwood-wfgc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Redwood Materials plans to use the government loan to expand an existing campus in Nevada.",
+          "copyright": "Nina Riggio for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/09/multimedia/09redwood-wfgc/09redwood-wfgc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Redwood Materials plans to use the government loan to expand an existing campus in Nevada.",
+          "copyright": "Nina Riggio for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/40GPaCx"
+    },
+    {
+      "section": "business",
+      "subsection": "energy-environment",
+      "title": "Ford Will Build a U.S. Battery Factory With Technology From China",
+      "abstract": "Ford\u2019s $3.5 billion plant in Michigan will draw on technology from CATL, a Chinese company that is the world\u2019s No. 1 maker of electric-car batteries.",
+      "url": "https://www.nytimes.com/2023/02/13/business/energy-environment/ford-catl-electric-vehicle-battery.html",
+      "uri": "nyt://article/6c1e6a2c-ea30-59aa-8530-3db51460ccf4",
+      "byline": "By Neal E. Boudette and Keith Bradsher",
+      "item_type": "Article",
+      "updated_date": "2023-02-14T01:19:15-05:00",
+      "created_date": "2023-02-13T13:46:44-05:00",
+      "published_date": "2023-02-13T13:46:44-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobiles",
+        "Electric and Hybrid Vehicles",
+        "International Trade and World Market",
+        "Batteries",
+        "Factories and Manufacturing",
+        "Labor and Jobs",
+        "Inflation Reduction Act of 2022",
+        "Lithium (Metal)"
+      ],
+      "org_facet": [
+        "Contemporary Amperex Technology Ltd",
+        "Ford Motor Co"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Ningde (China)",
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/14/multimedia/13subJPford-catl-print/13ford-01-kgfh-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ford Motor has been investing billions of dollars in electric vehicles like the F-150 Lightning pickup truck, which has increased the automaker\u2019s needs for batteries.",
+          "copyright": "Sylvia Jarrus for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/14/multimedia/13subJPford-catl-print/13ford-01-kgfh-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ford Motor has been investing billions of dollars in electric vehicles like the F-150 Lightning pickup truck, which has increased the automaker\u2019s needs for batteries.",
+          "copyright": "Sylvia Jarrus for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/14/multimedia/13subJPford-catl-print/13ford-01-kgfh-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ford Motor has been investing billions of dollars in electric vehicles like the F-150 Lightning pickup truck, which has increased the automaker\u2019s needs for batteries.",
+          "copyright": "Sylvia Jarrus for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "business",
+      "subsection": "energy-environment",
+      "title": "General Motors Reaches Deal to Ensure Its Chip Supply",
+      "abstract": "GlobalFoundries will dedicate part of its semiconductor output to G.M. as the automaker offers more electric vehicles and driver-assistance systems.",
+      "url": "https://www.nytimes.com/2023/02/09/business/energy-environment/general-motors-globalfoundries-chips.html",
+      "uri": "nyt://article/cae64abb-d61d-5c10-889d-723b65987c98",
+      "byline": "By Neal E. Boudette",
+      "item_type": "Article",
+      "updated_date": "2023-02-09T23:14:02-05:00",
+      "created_date": "2023-02-09T14:49:27-05:00",
+      "published_date": "2023-02-09T14:49:27-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Computer Chips",
+        "Automobiles",
+        "Electric and Hybrid Vehicles",
+        "Factories and Manufacturing",
+        "Supply Chain",
+        "Shortages"
+      ],
+      "org_facet": [
+        "General Motors",
+        "GlobalFoundries"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/09/multimedia/09gm-chips-sub-bfzl/09gm-chips-sub-bfzl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "General Motors is increasing production of electric vehicles and complex components that require more computing power.",
+          "copyright": "Michael M. Santiago/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/09/multimedia/09gm-chips-sub-bfzl/09gm-chips-sub-bfzl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "General Motors is increasing production of electric vehicles and complex components that require more computing power.",
+          "copyright": "Michael M. Santiago/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/09/multimedia/09gm-chips-sub-bfzl/09gm-chips-sub-bfzl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "General Motors is increasing production of electric vehicles and complex components that require more computing power.",
+          "copyright": "Michael M. Santiago/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3xbOess"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "The Magic of Your First Car",
+      "abstract": "For these young people in Los Angeles, a car is a portal to possibilities, a means to escape monotony and a gathering space where they can let it all go.",
+      "url": "https://www.nytimes.com/interactive/2023/02/09/style/first-car-young-americans.html",
+      "uri": "nyt://interactive/6ee99291-1b6e-50f4-b411-8aaff53d43ab",
+      "byline": "By Adali Schell and Remy Tumin",
+      "item_type": "Interactive",
+      "updated_date": "2023-02-24T12:34:49-05:00",
+      "created_date": "2023-02-09T05:00:01-05:00",
+      "published_date": "2023-02-09T05:00:01-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Youth",
+        "Teenagers and Adolescence",
+        "Friendship",
+        "Automobiles",
+        "Music",
+        "vis-photo",
+        "Generation Z"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Los Angeles (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/12/13/multimedia/00HOME-CAR-1-e566/00HOME-CAR-1-e566-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Adali Schell for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/12/13/multimedia/00HOME-CAR-1-e566/00HOME-CAR-1-e566-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Adali Schell for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/12/13/multimedia/00HOME-CAR-1-e566/00HOME-CAR-1-e566-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Adali Schell for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IaylbQ"
+    },
+    {
+      "section": "sports",
+      "subsection": "autoracing",
+      "title": "Ford Partners With Red Bull in Return to Formula One",
+      "abstract": "The automaker and the drinks manufacturer are joining forces on a high-powered team in the world\u2019s most popular motorsports series.",
+      "url": "https://www.nytimes.com/2023/02/03/sports/autoracing/ford-red-bull-formula-one.html",
+      "uri": "nyt://article/d8892e15-e05f-5ff2-8682-cf31e1dba2b0",
+      "byline": "By Tariq Panja",
+      "item_type": "Article",
+      "updated_date": "2023-02-04T15:09:13-05:00",
+      "created_date": "2023-02-03T09:24:37-05:00",
+      "published_date": "2023-02-03T09:24:37-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobile Racing",
+        "Advertising and Marketing"
+      ],
+      "org_facet": [
+        "Formula One",
+        "Ford Motor Co",
+        "Red Bull Racing Ltd"
+      ],
+      "per_facet": [
+        "Horner, Christian (1973- )",
+        "Farley, James D Jr (1962- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/03/multimedia/03ford-redbull-ljgk/03ford-redbull-ljgk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Red Bull\u2019s Christian Horner and Ford\u2019s chief executive, Jim Farley, announced their new partnership on Friday in New York.",
+          "copyright": "Seth Wenig/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/03/multimedia/03ford-redbull-ljgk/03ford-redbull-ljgk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Red Bull\u2019s Christian Horner and Ford\u2019s chief executive, Jim Farley, announced their new partnership on Friday in New York.",
+          "copyright": "Seth Wenig/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/03/multimedia/03ford-redbull-ljgk/03ford-redbull-ljgk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Red Bull\u2019s Christian Horner and Ford\u2019s chief executive, Jim Farley, announced their new partnership on Friday in New York.",
+          "copyright": "Seth Wenig/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3JM6aBc"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Tesla\u2019s Pickup Truck Is Coming Soon. Maybe.",
+      "abstract": "Already two years behind schedule, the Cybertruck has experts wondering how the company will manufacture its unusual stainless steel \u201cexoskeleton.\u201d",
+      "url": "https://www.nytimes.com/2023/02/06/business/teslas-cybertruck-pickup-stainless-steel.html",
+      "uri": "nyt://article/028f9470-29ac-5201-afad-9e91b4ed21dd",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2023-02-08T23:38:36-05:00",
+      "created_date": "2023-02-06T05:00:21-05:00",
+      "published_date": "2023-02-06T05:00:21-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Sports Utility Vehicles and Light Trucks",
+        "Steel and Iron",
+        "Factories and Manufacturing",
+        "Welding and Welders"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc"
+      ],
+      "per_facet": [
+        "Musk, Elon"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/06/multimedia/03tesla-cybertruck-01-vwzt/03tesla-cybertruck-01-vwzt-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The electric Cybertruck on display in New York in 2021. Elon Musk said Tesla would begin producing the truck before the end of this year.",
+          "copyright": "Jeenah Moon/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/06/multimedia/03tesla-cybertruck-01-vwzt/03tesla-cybertruck-01-vwzt-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The electric Cybertruck on display in New York in 2021. Elon Musk said Tesla would begin producing the truck before the end of this year.",
+          "copyright": "Jeenah Moon/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/06/multimedia/03tesla-cybertruck-01-vwzt/03tesla-cybertruck-01-vwzt-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The electric Cybertruck on display in New York in 2021. Elon Musk said Tesla would begin producing the truck before the end of this year.",
+          "copyright": "Jeenah Moon/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3JJELjn"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Do You Work in the Auto Industry? We Want to Hear From You.",
+      "abstract": "Sales of electric vehicles are growing fast, and automakers are investing billions of dollars in new technology and factories. We want to know how jobs are changing.",
+      "url": "https://www.nytimes.com/2023/02/06/business/auto-industry-electric-vehicles-workers.html",
+      "uri": "nyt://article/98dbcd9e-2830-56b0-b158-2674b7a37ff1",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2023-02-06T05:00:16-05:00",
+      "created_date": "2023-02-06T05:00:16-05:00",
+      "published_date": "2023-02-06T05:00:16-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "internal-reader-callout",
+        "internal-open-access",
+        "Electric and Hybrid Vehicles",
+        "Labor and Jobs",
+        "Layoffs and Job Reductions",
+        "Automobiles",
+        "Factories and Manufacturing",
+        "Batteries"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/01/multimedia/00ev-emloyees-callout-ghct/00ev-emloyees-callout-ghct-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ford Motor and other automakers are investing heavily in electric vehicles, like the F-150 Lightning pickup truck.",
+          "copyright": "Brittany Greeson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/01/multimedia/00ev-emloyees-callout-ghct/00ev-emloyees-callout-ghct-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ford Motor and other automakers are investing heavily in electric vehicles, like the F-150 Lightning pickup truck.",
+          "copyright": "Brittany Greeson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/01/multimedia/00ev-emloyees-callout-ghct/00ev-emloyees-callout-ghct-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ford Motor and other automakers are investing heavily in electric vehicles, like the F-150 Lightning pickup truck.",
+          "copyright": "Brittany Greeson for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3RCfMAp"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Jury Rules for Elon Musk and Tesla in Investor Lawsuit Over Tweets",
+      "abstract": "The case centered on whether investors lost money because they believed Mr. Musk\u2019s social media posts about taking Tesla private in 2018.",
+      "url": "https://www.nytimes.com/2023/02/03/business/elon-musk-tesla-investor-trial.html",
+      "uri": "nyt://article/7759e777-faa1-519b-b100-636cd356344c",
+      "byline": "By Kalley Huang and Peter Eavis",
+      "item_type": "Article",
+      "updated_date": "2023-02-03T23:30:46-05:00",
+      "created_date": "2023-02-03T15:45:43-05:00",
+      "published_date": "2023-02-03T15:45:43-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Decisions and Verdicts",
+        "Suits and Litigation (Civil)",
+        "Stocks and Bonds",
+        "Corporations",
+        "Social Media",
+        "Mergers, Acquisitions and Divestitures"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc",
+        "Twitter"
+      ],
+      "per_facet": [
+        "Musk, Elon"
+      ],
+      "geo_facet": [
+        "San Francisco (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/03/multimedia/03musk-trial-sub-tpqg/03musk-trial-sub-tpqg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk, center, outside federal court in San Francisco on Friday. Jurors deliberated for about an hour before finding him not liable for losses by Tesla investors who sued him.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/03/multimedia/03musk-trial-sub-tpqg/03musk-trial-sub-tpqg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk, center, outside federal court in San Francisco on Friday. Jurors deliberated for about an hour before finding him not liable for losses by Tesla investors who sued him.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/03/multimedia/03musk-trial-sub-tpqg/03musk-trial-sub-tpqg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk, center, outside federal court in San Francisco on Friday. Jurors deliberated for about an hour before finding him not liable for losses by Tesla investors who sued him.",
+          "copyright": "Jim Wilson/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3JFYbpA"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Ford Lost $2 Billion in 2022 as Some Investments Soured",
+      "abstract": "The company\u2019s financial performance was hurt by its stake in Rivian, an electric truck company, and an autonomous car business.",
+      "url": "https://www.nytimes.com/2023/02/02/business/ford-earnings-fourth-quarter-2022.html",
+      "uri": "nyt://article/57cc6c10-d8d2-5a7f-9b2e-27e67f47f265",
+      "byline": "By Neal E. Boudette",
+      "item_type": "Article",
+      "updated_date": "2023-02-02T23:34:46-05:00",
+      "created_date": "2023-02-02T11:02:36-05:00",
+      "published_date": "2023-02-02T11:02:36-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Company Reports",
+        "Automobiles",
+        "Electric and Hybrid Vehicles",
+        "Production",
+        "Factories and Manufacturing",
+        "Sports Utility Vehicles and Light Trucks",
+        "Supply Chain"
+      ],
+      "org_facet": [
+        "Ford Motor Co"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/02/multimedia/02ford-hvgt/02ford-hvgt-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ford Motor sales nudged up in January from a year earlier, with electric vehicles leading the way.",
+          "copyright": "Cydni Elledge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/02/multimedia/02ford-hvgt/02ford-hvgt-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ford Motor sales nudged up in January from a year earlier, with electric vehicles leading the way.",
+          "copyright": "Cydni Elledge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/02/multimedia/02ford-hvgt/02ford-hvgt-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ford Motor sales nudged up in January from a year earlier, with electric vehicles leading the way.",
+          "copyright": "Cydni Elledge for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jmt6wr"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "G.M. Posts Solid Profit as It Pushes to Take On Tesla in E.V.s",
+      "abstract": "Aiming to make a million electric vehicles a year by 2025, General Motors is investing in a Nevada lithium mine to help with battery production.",
+      "url": "https://www.nytimes.com/2023/01/31/business/general-motors-q4-earnings.html",
+      "uri": "nyt://article/b1289c2b-2aa1-5d79-ba53-95e7e66e267a",
+      "byline": "By Neal E. Boudette",
+      "item_type": "Article",
+      "updated_date": "2023-02-01T12:56:12-05:00",
+      "created_date": "2023-01-31T12:31:06-05:00",
+      "published_date": "2023-01-31T12:31:06-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Company Reports",
+        "Automobiles",
+        "Electric and Hybrid Vehicles",
+        "Sports Utility Vehicles and Light Trucks",
+        "Stocks and Bonds",
+        "Lithium (Metal)"
+      ],
+      "org_facet": [
+        "General Motors",
+        "Lithium Americas Corp"
+      ],
+      "per_facet": [
+        "Barra, Mary T"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/31/multimedia/31gm-earnings-wzfq/31gm-earnings-wzfq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Even as higher interest rates hurt sales of new cars and trucks, General Motors reported a stronger profit in the fourth quarter of 2022 than it made a year earlier.",
+          "copyright": "Brandon Bell/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/31/multimedia/31gm-earnings-wzfq/31gm-earnings-wzfq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Even as higher interest rates hurt sales of new cars and trucks, General Motors reported a stronger profit in the fourth quarter of 2022 than it made a year earlier.",
+          "copyright": "Brandon Bell/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/31/multimedia/31gm-earnings-wzfq/31gm-earnings-wzfq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Even as higher interest rates hurt sales of new cars and trucks, General Motors reported a stronger profit in the fourth quarter of 2022 than it made a year earlier.",
+          "copyright": "Brandon Bell/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Yd74uQ"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Ford Follows Tesla in Cutting Electric Vehicle Prices",
+      "abstract": "The automaker reduced the price of the Mustang Mach-E by up to $5,900 after Tesla slashed prices of its cars by as much as 20 percent.",
+      "url": "https://www.nytimes.com/2023/01/30/business/ford-mustang-electric-prices.html",
+      "uri": "nyt://article/77eb08fe-513a-5db8-830b-6c6be20a798a",
+      "byline": "By Neal E. Boudette",
+      "item_type": "Article",
+      "updated_date": "2023-01-31T12:37:38-05:00",
+      "created_date": "2023-01-30T11:50:57-05:00",
+      "published_date": "2023-01-30T11:50:57-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Sports Utility Vehicles and Light Trucks",
+        "Discount Selling",
+        "Prices (Fares, Fees and Rates)"
+      ],
+      "org_facet": [
+        "Ford Motor Co",
+        "Tesla Motors Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/30/multimedia/30ford-ev-lwpm/30ford-ev-lwpm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ford is cutting the price of its popular Mustang Mach-E sport utility vehicle weeks after Tesla cut prices for its cars.",
+          "copyright": "Victor J. Blue for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/30/multimedia/30ford-ev-lwpm/30ford-ev-lwpm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ford is cutting the price of its popular Mustang Mach-E sport utility vehicle weeks after Tesla cut prices for its cars.",
+          "copyright": "Victor J. Blue for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/30/multimedia/30ford-ev-lwpm/30ford-ev-lwpm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ford is cutting the price of its popular Mustang Mach-E sport utility vehicle weeks after Tesla cut prices for its cars.",
+          "copyright": "Victor J. Blue for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3HmsgHV"
+    },
+    {
+      "section": "business",
+      "subsection": "economy",
+      "title": "The Pandemic Used-Car Boom Is Coming to an Abrupt End",
+      "abstract": "Dealership are seeing sales and prices drop as consumers tighten their belts, putting financial pressure on companies, like Carvana, that grew fast in recent years.",
+      "url": "https://www.nytimes.com/2023/01/30/business/economy/used-cars-carmax-carvana.html",
+      "uri": "nyt://article/51f473b6-c6d6-5c86-8629-27ebf6f7b36d",
+      "byline": "By Neal E. Boudette",
+      "item_type": "Article",
+      "updated_date": "2023-01-31T23:39:21-05:00",
+      "created_date": "2023-01-30T09:43:51-05:00",
+      "published_date": "2023-01-30T09:43:51-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Used Cars",
+        "Inflation (Economics)",
+        "Prices (Fares, Fees and Rates)",
+        "United States Economy",
+        "E-Commerce",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Carmax Inc",
+        "Carvana Co"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/29/multimedia/00used-cars2-01-pvmh/00used-cars2-01-pvmh-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An empty eight-story Carvana tower in Denver. The company recently reported a quarterly loss of more than $500 million, and has laid off 4,000 employees.",
+          "copyright": "Benjamin Rasmussen for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/29/multimedia/00used-cars2-01-pvmh/00used-cars2-01-pvmh-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An empty eight-story Carvana tower in Denver. The company recently reported a quarterly loss of more than $500 million, and has laid off 4,000 employees.",
+          "copyright": "Benjamin Rasmussen for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/29/multimedia/00used-cars2-01-pvmh/00used-cars2-01-pvmh-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An empty eight-story Carvana tower in Denver. The company recently reported a quarterly loss of more than $500 million, and has laid off 4,000 employees.",
+          "copyright": "Benjamin Rasmussen for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3wGJScy"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Tesla\u2019s Profit Jumped 12% in Fourth Quarter",
+      "abstract": "The electric car company is facing intensifying competition, supply chain disruptions and concerns about the behavior of Elon Musk.",
+      "url": "https://www.nytimes.com/2023/01/25/business/tesla-earnings-fourth-quarter-2022.html",
+      "uri": "nyt://article/c8f79b4e-28d7-5ca4-855e-558a5e4b081e",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2023-01-25T23:32:38-05:00",
+      "created_date": "2023-01-25T16:18:41-05:00",
+      "published_date": "2023-01-25T16:18:41-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Company Reports",
+        "Automobiles",
+        "Supply Chain",
+        "Stocks and Bonds"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc",
+        "Twitter"
+      ],
+      "per_facet": [
+        "Musk, Elon"
+      ],
+      "geo_facet": [
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/25/multimedia/25tesla-earnings-tqgl/25tesla-earnings-tqgl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The year was dominated by Elon Musk\u2019s acquisition of Twitter, which led to complaints by Tesla investors that he was neglecting his duties at the carmaker at a critical time.",
+          "copyright": "Roger Kisby for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/25/multimedia/25tesla-earnings-tqgl/25tesla-earnings-tqgl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The year was dominated by Elon Musk\u2019s acquisition of Twitter, which led to complaints by Tesla investors that he was neglecting his duties at the carmaker at a critical time.",
+          "copyright": "Roger Kisby for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/25/multimedia/25tesla-earnings-tqgl/25tesla-earnings-tqgl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The year was dominated by Elon Musk\u2019s acquisition of Twitter, which led to complaints by Tesla investors that he was neglecting his duties at the carmaker at a critical time.",
+          "copyright": "Roger Kisby for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3HbKvzA"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Tesla Will Build Heavy Trucks at a New Factory in Nevada",
+      "abstract": "The $3.6 billion investment, which also includes a new battery factory, presents a challenge to traditional truck makers that have been slow to sell electric vehicles.",
+      "url": "https://www.nytimes.com/2023/01/24/business/tesla-truck-factory-nevada.html",
+      "uri": "nyt://article/28eb4fcd-fd71-550c-977a-2ae29b667fb7",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2023-01-25T13:07:16-05:00",
+      "created_date": "2023-01-24T18:03:18-05:00",
+      "published_date": "2023-01-24T18:03:18-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Trucks and Trucking",
+        "Factories and Manufacturing",
+        "Automobiles",
+        "Batteries"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc"
+      ],
+      "per_facet": [
+        "Musk, Elon"
+      ],
+      "geo_facet": [
+        "Nevada"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24tesla-semi-jqcl/24tesla-semi-jqcl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla says it will make electric semi trucks at a new factory in Nevada. The company already has a battery factory in the Reno area.",
+          "copyright": "Suzanne Cordeiro/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24tesla-semi-jqcl/24tesla-semi-jqcl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla says it will make electric semi trucks at a new factory in Nevada. The company already has a battery factory in the Reno area.",
+          "copyright": "Suzanne Cordeiro/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24tesla-semi-jqcl/24tesla-semi-jqcl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla says it will make electric semi trucks at a new factory in Nevada. The company already has a battery factory in the Reno area.",
+          "copyright": "Suzanne Cordeiro/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3HvKvvU"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Elon Musk Said Tesla Buyout Plan Didn\u2019t Involve \u2018a Specific Number\u2019",
+      "abstract": "Under questioning, Mr. Musk said he hadn\u2019t discussed how much money investors would put in to help him take his car company private.",
+      "url": "https://www.nytimes.com/2023/01/24/business/elon-musk-tesla-trial.html",
+      "uri": "nyt://article/8ca90ce9-e28e-56f9-9ec4-a73e227bb520",
+      "byline": "By Kalley Huang and Peter Eavis",
+      "item_type": "Article",
+      "updated_date": "2023-01-24T23:06:23-05:00",
+      "created_date": "2023-01-24T17:14:09-05:00",
+      "published_date": "2023-01-24T17:14:09-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Stocks and Bonds",
+        "Electric and Hybrid Vehicles",
+        "Mergers, Acquisitions and Divestitures",
+        "Suits and Litigation (Civil)",
+        "Courts and the Judiciary"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc",
+        "Space Exploration Technologies Corp",
+        "Twitter"
+      ],
+      "per_facet": [
+        "Musk, Elon",
+        "Chen, Edward M"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24musk-trial-jmzp/24musk-trial-jmzp-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1321,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk couldn\u2019t answer a judge\u2019s question about how much money investors he had talked to were willing to put up for Tesla.",
+          "copyright": "George Nikitin/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24musk-trial-jmzp/24musk-trial-jmzp-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk couldn\u2019t answer a judge\u2019s question about how much money investors he had talked to were willing to put up for Tesla.",
+          "copyright": "George Nikitin/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24musk-trial-jmzp/24musk-trial-jmzp-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk couldn\u2019t answer a judge\u2019s question about how much money investors he had talked to were willing to put up for Tesla.",
+          "copyright": "George Nikitin/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/3R3ywZo"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Elon Musk Says He Could Have Raised Funds to Take Tesla Private",
+      "abstract": "Mr. Musk testified in a lawsuit filed by investors who claim his 2018 statements about a plan to buy up the carmaker\u2019s stock cost them billions.",
+      "url": "https://www.nytimes.com/2023/01/23/business/elon-musk-tesla-trial.html",
+      "uri": "nyt://article/be75d31a-ce17-5dba-bb5c-d01ebd3e6787",
+      "byline": "By Kalley Huang and Peter Eavis",
+      "item_type": "Article",
+      "updated_date": "2023-01-24T11:55:43-05:00",
+      "created_date": "2023-01-23T13:17:41-05:00",
+      "published_date": "2023-01-23T13:17:41-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Suits and Litigation (Civil)",
+        "Stocks and Bonds",
+        "Securities and Commodities Violations",
+        "Mergers, Acquisitions and Divestitures",
+        "Social Media"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc",
+        "Public Investment Fund (Saudi Arabia)"
+      ],
+      "per_facet": [
+        "Musk, Elon"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/24/multimedia/23JPmusk-trial-print-gqmk/23musk-trial-01-gqmk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk testified on Monday in federal court that Saudi Arabia\u2019s sovereign wealth fund had \u201cunequivocally wanted to take Tesla private.\u201d",
+          "copyright": "Michael Gonzalez/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/24/multimedia/23JPmusk-trial-print-gqmk/23musk-trial-01-gqmk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk testified on Monday in federal court that Saudi Arabia\u2019s sovereign wealth fund had \u201cunequivocally wanted to take Tesla private.\u201d",
+          "copyright": "Michael Gonzalez/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/24/multimedia/23JPmusk-trial-print-gqmk/23musk-trial-01-gqmk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk testified on Monday in federal court that Saudi Arabia\u2019s sovereign wealth fund had \u201cunequivocally wanted to take Tesla private.\u201d",
+          "copyright": "Michael Gonzalez/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3QWyuCN"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Elon Musk Says His Social Media Posts Did Not Drive Tesla\u2019s Stock Price",
+      "abstract": "The chief executive of Tesla testified in a federal civil trial about a 2018 plan to take the automaker private that fizzled out.",
+      "url": "https://www.nytimes.com/2023/01/20/business/tesla-elon-musk-trial.html",
+      "uri": "nyt://article/5b8d6ec7-55c4-56c4-afc8-a7614de79dae",
+      "byline": "By Kalley Huang",
+      "item_type": "Article",
+      "updated_date": "2023-01-21T14:32:23-05:00",
+      "created_date": "2023-01-20T17:42:44-05:00",
+      "published_date": "2023-01-20T17:42:44-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Suits and Litigation (Civil)",
+        "Stocks and Bonds",
+        "Electric and Hybrid Vehicles",
+        "Social Media"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc",
+        "Twitter",
+        "Securities and Exchange Commission"
+      ],
+      "per_facet": [
+        "Musk, Elon"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/21/multimedia/20musk-trial1-print-pjft/20musk-trial-pjft-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk in August. On Friday, he testified in federal court in San Francisco about his plan to take Tesla private in 2018. The proposal fizzled out.",
+          "copyright": "Carina Johansen/Agence France-Presse, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/21/multimedia/20musk-trial1-print-pjft/20musk-trial-pjft-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk in August. On Friday, he testified in federal court in San Francisco about his plan to take Tesla private in 2018. The proposal fizzled out.",
+          "copyright": "Carina Johansen/Agence France-Presse, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/21/multimedia/20musk-trial1-print-pjft/20musk-trial-pjft-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk in August. On Friday, he testified in federal court in San Francisco about his plan to take Tesla private in 2018. The proposal fizzled out.",
+          "copyright": "Carina Johansen/Agence France-Presse, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3XOiVyW"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Carl Hahn Dies at 96; Made the VW Beetle Ubiquitous",
+      "abstract": "As president of Volkswagen of America, he pushed the \u201cThink Small\u201d ad campaign that helped create a counterculture icon.",
+      "url": "https://www.nytimes.com/2023/01/18/business/carl-hahn-dead.html",
+      "uri": "nyt://article/db475291-a100-5b56-8105-0512ff20ca83",
+      "byline": "By Sam Roberts",
+      "item_type": "Article",
+      "updated_date": "2023-01-23T10:08:50-05:00",
+      "created_date": "2023-01-18T15:27:22-05:00",
+      "published_date": "2023-01-18T15:27:22-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobiles",
+        "Deaths (Obituaries)"
+      ],
+      "org_facet": [
+        "Volkswagen AG"
+      ],
+      "per_facet": [
+        "Hahn, Carl"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/19/obituaries/16hahn-2-print2/16hahn-2-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1391,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The automobile executive Carl H. Hahn in 1989. During his chairmanship of Volkswagen, the company grew into a global brand.",
+          "copyright": "Wolfgang Weihs/picture alliance, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/19/obituaries/16hahn-2-print2/16hahn-2-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The automobile executive Carl H. Hahn in 1989. During his chairmanship of Volkswagen, the company grew into a global brand.",
+          "copyright": "Wolfgang Weihs/picture alliance, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/19/obituaries/16hahn-2-print2/16hahn-2-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The automobile executive Carl H. Hahn in 1989. During his chairmanship of Volkswagen, the company grew into a global brand.",
+          "copyright": "Wolfgang Weihs/picture alliance, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3HepJQZ"
+    },
+    {
+      "section": "magazine",
+      "subsection": "",
+      "title": "Elon Musk\u2019s Appetite for Destruction",
+      "abstract": "A wave of lawsuits argue that Tesla\u2019s self-driving software is dangerously overhyped. What can its blind spots teach us about the company\u2019s erratic C.E.O.?",
+      "url": "https://www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.html",
+      "uri": "nyt://article/4b021707-3217-5004-856c-4577239d72cd",
+      "byline": "By Christopher Cox",
+      "item_type": "Article",
+      "updated_date": "2023-02-24T13:26:10-05:00",
+      "created_date": "2023-01-17T05:00:23-05:00",
+      "published_date": "2023-01-17T05:00:23-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Artificial Intelligence",
+        "Automobiles",
+        "Automobile Safety Features and Defects",
+        "Traffic Accidents and Safety",
+        "Ethics (Personal)",
+        "Compensation for Damages (Law)",
+        "internal-sub-only"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc"
+      ],
+      "per_facet": [
+        "Musk, Elon"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/22/magazine/22mag-tesla2/22mag-tesla2-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Justin Metz"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/22/magazine/22mag-tesla2/22mag-tesla2-threeByTwoSmallAt2X-v4.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Justin Metz"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/22/magazine/22mag-tesla2/22mag-tesla2-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Justin Metz"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Xih7ym"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Elon Musk Goes to Trial Over His 2018 Plan to Take Tesla Private",
+      "abstract": "Investors are seeking billions of dollars in damages for their losses after Mr. Musk posted a proposal on Twitter that never materialized.",
+      "url": "https://www.nytimes.com/2023/01/17/business/elon-musk-tesla-trial-funding-secured.html",
+      "uri": "nyt://article/615d8246-cdb0-532a-9f6d-a9b9dc4dae8a",
+      "byline": "By Peter Eavis and Kalley Huang",
+      "item_type": "Article",
+      "updated_date": "2023-01-18T12:27:41-05:00",
+      "created_date": "2023-01-17T05:00:17-05:00",
+      "published_date": "2023-01-17T05:00:17-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Stocks and Bonds",
+        "Suits and Litigation (Civil)",
+        "Mergers, Acquisitions and Divestitures",
+        "Social Media",
+        "Compensation for Damages (Law)"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc",
+        "Twitter",
+        "Public Investment Fund (Saudi Arabia)",
+        "Securities and Exchange Commission"
+      ],
+      "per_facet": [
+        "Musk, Elon",
+        "Chen, Edward M"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/17/multimedia/17musk-trial2-02-pkgq/17musk-trial2-02-pkgq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk at federal court in Manhattan in 2019, eight months after he wrote on Twitter that he was \u201cconsidering taking Tesla private\u201d and had \u201cfunding secured.\u201d",
+          "copyright": "Jefferson Siegel for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/17/multimedia/17musk-trial2-02-pkgq/17musk-trial2-02-pkgq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk at federal court in Manhattan in 2019, eight months after he wrote on Twitter that he was \u201cconsidering taking Tesla private\u201d and had \u201cfunding secured.\u201d",
+          "copyright": "Jefferson Siegel for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/17/multimedia/17musk-trial2-02-pkgq/17musk-trial2-02-pkgq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk at federal court in Manhattan in 2019, eight months after he wrote on Twitter that he was \u201cconsidering taking Tesla private\u201d and had \u201cfunding secured.\u201d",
+          "copyright": "Jefferson Siegel for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3WjobJX"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Tesla Cuts Prices Sharply as It Moves to Bolster Demand",
+      "abstract": "The price reductions in the United States will make more of the company\u2019s electric vehicles eligible for a federal tax credit.",
+      "url": "https://www.nytimes.com/2023/01/13/business/tesla-price-cut.html",
+      "uri": "nyt://article/90e96f5c-78aa-5278-b75d-7efb01bbe45b",
+      "byline": "By Neal E. Boudette",
+      "item_type": "Article",
+      "updated_date": "2023-01-14T13:24:28-05:00",
+      "created_date": "2023-01-13T08:44:50-05:00",
+      "published_date": "2023-01-13T08:44:50-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Prices (Fares, Fees and Rates)",
+        "Automobiles",
+        "Company Reports",
+        "Stocks and Bonds"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/13/business/13tesla-1/13tesla-1-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla\u2019s Model 3 Performance compact is selling for just under $54,000, down from $63,000.",
+          "copyright": "David Zalubowsk/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/13/business/13tesla-1/13tesla-1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla\u2019s Model 3 Performance compact is selling for just under $54,000, down from $63,000.",
+          "copyright": "David Zalubowsk/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/13/business/13tesla-1/13tesla-1-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla\u2019s Model 3 Performance compact is selling for just under $54,000, down from $63,000.",
+          "copyright": "David Zalubowsk/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ZCwaEH"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Uber Drivers Say They Are Struggling: \u2018This Is Not Sustainable\u2019",
+      "abstract": "Drivers\u2019 hourly earnings have increased since 2018, but the company sued to block their raise last year and inflation has taken a toll.",
+      "url": "https://www.nytimes.com/2023/01/12/nyregion/cab-uber-lyft-drivers.html",
+      "uri": "nyt://article/0fdb07f9-f6fd-55d0-9519-e1968d3d2f5b",
+      "byline": "By Winnie Hu and Ana Ley",
+      "item_type": "Article",
+      "updated_date": "2023-01-15T13:05:37-05:00",
+      "created_date": "2023-01-12T05:00:13-05:00",
+      "published_date": "2023-01-12T05:00:13-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Car Services and Livery Cabs",
+        "Taxicabs and Taxicab Drivers",
+        "Wages and Salaries",
+        "Inflation (Economics)",
+        "Suits and Litigation (Civil)"
+      ],
+      "org_facet": [
+        "Lyft Inc",
+        "Uber Technologies Inc",
+        "Taxi and Limousine Commission"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/10/multimedia/00uberdrivers-qvpj/00uberdrivers-qvpj-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A recent rally held by drivers in front of Uber\u2019s headquarters in Manhattan. ",
+          "copyright": "Todd Heisler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/10/multimedia/00uberdrivers-qvpj/00uberdrivers-qvpj-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A recent rally held by drivers in front of Uber\u2019s headquarters in Manhattan. ",
+          "copyright": "Todd Heisler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/10/multimedia/00uberdrivers-qvpj/00uberdrivers-qvpj-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A recent rally held by drivers in front of Uber\u2019s headquarters in Manhattan. ",
+          "copyright": "Todd Heisler/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3IQBuhI"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Mercedes-Benz Plans to Build U.S. Electric Car Charging Network",
+      "abstract": "The network could help increase the low number of charging stations, encouraging more people to buy electric vehicles.",
+      "url": "https://www.nytimes.com/2023/01/05/business/mercedes-benz-electric-vehicle-chargers.html",
+      "uri": "nyt://article/2c2d6823-72da-537c-9692-eb592c08a914",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2023-01-06T11:46:02-05:00",
+      "created_date": "2023-01-05T15:17:57-05:00",
+      "published_date": "2023-01-05T15:17:57-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobile Service and Charging Stations",
+        "Electric and Hybrid Vehicles",
+        "Automobiles"
+      ],
+      "org_facet": [
+        "Mercedes-Benz",
+        "Tesla Motors Inc",
+        "ChargePoint",
+        "Electrify America LLC"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States",
+        "Alabama"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/06/multimedia/05mercedes-chargers-1-b394/05mercedes-chargers-1-b394-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Mercedes-Benz factory in Alabama. The automaker said it would build 400 stations with 2,500 high-powered chargers in the United States.",
+          "copyright": "David Walter Banks for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/06/multimedia/05mercedes-chargers-1-b394/05mercedes-chargers-1-b394-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Mercedes-Benz factory in Alabama. The automaker said it would build 400 stations with 2,500 high-powered chargers in the United States.",
+          "copyright": "David Walter Banks for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/06/multimedia/05mercedes-chargers-1-b394/05mercedes-chargers-1-b394-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Mercedes-Benz factory in Alabama. The automaker said it would build 400 stations with 2,500 high-powered chargers in the United States.",
+          "copyright": "David Walter Banks for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Gr9dfc"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Ford Sales Dipped in 2022, but Electric Vehicle Deliveries Surged",
+      "abstract": "The company\u2019s production was limited by a global chip shortage, but it made big gains in the fastest-growing segment of the auto market.",
+      "url": "https://www.nytimes.com/2023/01/05/business/ford-2022-sales-electric-vehicles.html",
+      "uri": "nyt://article/ddb76a5c-68de-57a1-af07-571174ec2dfc",
+      "byline": "By Neal E. Boudette",
+      "item_type": "Article",
+      "updated_date": "2023-01-05T23:41:11-05:00",
+      "created_date": "2023-01-05T11:47:51-05:00",
+      "published_date": "2023-01-05T11:47:51-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Company Reports",
+        "Automobiles",
+        "Production",
+        "Electric and Hybrid Vehicles",
+        "Prices (Fares, Fees and Rates)"
+      ],
+      "org_facet": [
+        "Ford Motor Co"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/05/multimedia/05ford-1-ffb0/05ford-1-ffb0-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ford said it sold 1.85 million cars and light trucks in the United States last year.",
+          "copyright": "Cydni Elledge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/05/multimedia/05ford-1-ffb0/05ford-1-ffb0-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ford said it sold 1.85 million cars and light trucks in the United States last year.",
+          "copyright": "Cydni Elledge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/05/multimedia/05ford-1-ffb0/05ford-1-ffb0-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ford said it sold 1.85 million cars and light trucks in the United States last year.",
+          "copyright": "Cydni Elledge for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3GjrlY7"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Tesla Sales in China Slump as Competition Intensifies",
+      "abstract": "Worry about the carmaker\u2019s sales in the world\u2019s largest car market is one reason the shares have plunged.",
+      "url": "https://www.nytimes.com/2023/01/05/business/tesla-china-sales-electric-vehicles.html",
+      "uri": "nyt://article/5fd92fd0-f910-58d1-8435-7abf8762d74f",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2023-01-06T11:37:17-05:00",
+      "created_date": "2023-01-05T10:57:58-05:00",
+      "published_date": "2023-01-05T10:57:58-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Automobiles",
+        "Shutdowns (Institutional)",
+        "Stocks and Bonds",
+        "Factories and Manufacturing"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc",
+        "BYD Co Ltd"
+      ],
+      "per_facet": [
+        "Musk, Elon"
+      ],
+      "geo_facet": [
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/06/multimedia/05TESLA-CHINA-1-a6c8/05TESLA-CHINA-1-a6c8-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla\u2019s sales in China fell sharply in December even after the automaker cut prices.",
+          "copyright": "Sun Yilei/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/06/multimedia/05TESLA-CHINA-1-a6c8/05TESLA-CHINA-1-a6c8-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla\u2019s sales in China fell sharply in December even after the automaker cut prices.",
+          "copyright": "Sun Yilei/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/06/multimedia/05TESLA-CHINA-1-a6c8/05TESLA-CHINA-1-a6c8-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla\u2019s sales in China fell sharply in December even after the automaker cut prices.",
+          "copyright": "Sun Yilei/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ifmvmG"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Supply Problems Hurt Auto Sales in 2022. Now Demand Is Weakening.",
+      "abstract": "A global semiconductor shortage is easing, which could allow carmakers to lift production this year. But higher interest rates could keep sales low.",
+      "url": "https://www.nytimes.com/2023/01/04/business/new-car-sales-2022.html",
+      "uri": "nyt://article/d940a5e5-d35a-5b33-9128-1d88dd7846f9",
+      "byline": "By Neal E. Boudette",
+      "item_type": "Article",
+      "updated_date": "2023-01-05T11:48:54-05:00",
+      "created_date": "2023-01-04T09:23:41-05:00",
+      "published_date": "2023-01-04T09:23:41-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobiles",
+        "Company Reports",
+        "Electric and Hybrid Vehicles",
+        "Prices (Fares, Fees and Rates)",
+        "United States Economy",
+        "Supply Chain",
+        "Computer Chips",
+        "Interest Rates",
+        "Two Thousand Twenty Two",
+        "Shortages",
+        "Inflation (Economics)"
+      ],
+      "org_facet": [
+        "General Motors",
+        "Toyota Motor Corp",
+        "Tesla Motors Inc",
+        "Rivian Automotive LLC"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/04/multimedia/04auto-sales-1-d887/04auto-sales-1-d887-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Auto sales are likely to have fallen to their lowest level in a decade last year as supply chain chaos limited production.",
+          "copyright": "Brandon Bell/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/04/multimedia/04auto-sales-1-d887/04auto-sales-1-d887-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Auto sales are likely to have fallen to their lowest level in a decade last year as supply chain chaos limited production.",
+          "copyright": "Brandon Bell/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/04/multimedia/04auto-sales-1-d887/04auto-sales-1-d887-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Auto sales are likely to have fallen to their lowest level in a decade last year as supply chain chaos limited production.",
+          "copyright": "Brandon Bell/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Ql2sjy"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Tesla Car Sales Grow Slower Than Expected, Amplifying Concerns",
+      "abstract": "Wall Street has grown decidedly pessimistic about Tesla, fearful that Elon Musk, its chief executive, is too focused on Twitter.",
+      "url": "https://www.nytimes.com/2023/01/02/business/tesla-fourth-quarter-sales.html",
+      "uri": "nyt://article/3303c5e9-0b41-50a1-88c8-1196bbe1a063",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2023-01-03T11:28:17-05:00",
+      "created_date": "2023-01-02T12:18:21-05:00",
+      "published_date": "2023-01-02T12:18:21-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Automobiles",
+        "Company Reports",
+        "Stocks and Bonds",
+        "Consumer Behavior"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc"
+      ],
+      "per_facet": [
+        "Musk, Elon"
+      ],
+      "geo_facet": [
+        "United States",
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/02/multimedia/00tesla-sales-print-1-9dc0/00tesla-sales-1-9dc0-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla sold 1.3 million cars in 2022, up 40 percent from the year before.",
+          "copyright": "An Rong Xu for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/02/multimedia/00tesla-sales-print-1-9dc0/00tesla-sales-1-9dc0-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla sold 1.3 million cars in 2022, up 40 percent from the year before.",
+          "copyright": "An Rong Xu for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/01/02/multimedia/00tesla-sales-print-1-9dc0/00tesla-sales-1-9dc0-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla sold 1.3 million cars in 2022, up 40 percent from the year before.",
+          "copyright": "An Rong Xu for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CgVFBF"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "In a Bad Year for Stocks, Tesla Plunged 65%",
+      "abstract": "Investors blame Elon Musk and wonder how much more the stock will fall.",
+      "url": "https://www.nytimes.com/2022/12/30/business/tesla-stock-elon-musk.html",
+      "uri": "nyt://article/ebe9f70f-703a-5165-815a-af256d693f30",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2022-12-31T13:10:53-05:00",
+      "created_date": "2022-12-30T15:04:43-05:00",
+      "published_date": "2022-12-30T15:04:43-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Automobiles",
+        "Stocks and Bonds",
+        "Computers and the Internet",
+        "Two Thousand Twenty Two",
+        "Boards of Directors",
+        "Social Media"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc",
+        "Twitter"
+      ],
+      "per_facet": [
+        "Musk, Elon"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/12/31/multimedia/30JPtesla-stock1-print-1-b8ae/30tesla-stock-1-b8ae-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "With Elon Musk seemingly disengaged, Tesla is being scrutinized according to more conventional standards like revenue and profits and less by its prospects for world domination.",
+          "copyright": "Pool photo by Christian Marquardt"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/12/31/multimedia/30JPtesla-stock1-print-1-b8ae/30tesla-stock-1-b8ae-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "With Elon Musk seemingly disengaged, Tesla is being scrutinized according to more conventional standards like revenue and profits and less by its prospects for world domination.",
+          "copyright": "Pool photo by Christian Marquardt"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/12/31/multimedia/30JPtesla-stock1-print-1-b8ae/30tesla-stock-1-b8ae-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "With Elon Musk seemingly disengaged, Tesla is being scrutinized according to more conventional standards like revenue and profits and less by its prospects for world domination.",
+          "copyright": "Pool photo by Christian Marquardt"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Q1mzDb"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Jeep Plant Shutdown Imperils Illinois Town and 1,350 Workers",
+      "abstract": "Stellantis plans to idle the factory, which makes the Cherokee, as it shifts to electric vehicles. Labor talks and a union election may be affected.",
+      "url": "https://www.nytimes.com/2022/12/23/business/jeep-factory.html",
+      "uri": "nyt://article/bf0d1807-fc23-5da6-a165-e5f9afbe44c7",
+      "byline": "By Neal E. Boudette and Robert Chiarito",
+      "item_type": "Article",
+      "updated_date": "2022-12-25T22:39:06-05:00",
+      "created_date": "2022-12-23T05:00:36-05:00",
+      "published_date": "2022-12-23T05:00:36-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobiles",
+        "Sports Utility Vehicles and Light Trucks",
+        "Layoffs and Job Reductions",
+        "Shutdowns (Institutional)",
+        "Factories and Manufacturing",
+        "Electric and Hybrid Vehicles",
+        "Organized Labor"
+      ],
+      "org_facet": [
+        "Jeep Division of Fiat Chrysler",
+        "Stellantis NV",
+        "United Automobile Workers"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Belvidere (Ill)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/12/21/multimedia/00jeep-factory-1-74d7/00jeep-factory-1-74d7-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeep Cherokees leaving the Stellantis assembly plant in Belvidere, Ill. The company plans to shutter the factory in February.",
+          "copyright": "Scott Olson/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/12/21/multimedia/00jeep-factory-1-74d7/00jeep-factory-1-74d7-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeep Cherokees leaving the Stellantis assembly plant in Belvidere, Ill. The company plans to shutter the factory in February.",
+          "copyright": "Scott Olson/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/12/21/multimedia/00jeep-factory-1-74d7/00jeep-factory-1-74d7-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeep Cherokees leaving the Stellantis assembly plant in Belvidere, Ill. The company plans to shutter the factory in February.",
+          "copyright": "Scott Olson/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jujsri"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "Black Ice and White Knuckles: Braving the Elements on Iceland\u2019s Ring Road",
+      "abstract": "In summer, the roughly 830-mile route offers drivers midnight sun, along with plenty of traffic. Other times of the year, its snowy delights are more solitary, and slippery.",
+      "url": "https://www.nytimes.com/2022/12/22/travel/iceland-winter-driving.html",
+      "uri": "nyt://article/306fa067-e7e8-5742-8092-ec970f5e02a7",
+      "byline": "By Eric A. Taub",
+      "item_type": "Article",
+      "updated_date": "2022-12-25T14:32:32-05:00",
+      "created_date": "2022-12-22T05:00:20-05:00",
+      "published_date": "2022-12-22T05:00:20-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Roads and Traffic",
+        "Travel and Vacations",
+        "Weather"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Iceland"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2022/12/21/travel/21Iceland-driving-illo/21Iceland-driving-illo-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1630,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jeff \u00d6stberg"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/12/21/travel/21Iceland-driving-illo/21Iceland-driving-illo-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jeff \u00d6stberg"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2022/12/21/travel/21Iceland-driving-illo/21Iceland-driving-illo-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jeff \u00d6stberg"
+        }
+      ],
+      "short_url": "https://nyti.ms/3vdgQ3z"
+    }
+  ]
+}

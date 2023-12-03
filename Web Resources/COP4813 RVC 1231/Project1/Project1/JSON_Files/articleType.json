@@ -1,0 +1,1244 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/4a14eedf-eec6-5720-8c12-1fe365de7715",
+      "url": "https://www.nytimes.com/2023/02/17/well/move/pelvic-floor-exercise-kegels.html",
+      "id": 100000008594278,
+      "asset_id": 100000008594278,
+      "source": "New York Times",
+      "published_date": "2023-02-17",
+      "updated": "2023-02-22 09:52:01",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "Content Type: Service;Muscles;Exercise;Pregnancy and Childbirth;Pelvis;Hips;Women and Girls",
+      "column": null,
+      "byline": "By Danielle Friedman",
+      "type": "Article",
+      "title": "Every Woman Can Benefit From This Pelvic Floor Workout",
+      "abstract": "It\u2019s time to show these overlooked muscles more love.",
+      "des_facet": [
+        "Content Type: Service",
+        "Muscles",
+        "Exercise",
+        "Pregnancy and Childbirth",
+        "Pelvis",
+        "Hips",
+        "Women and Girls"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Gritchelle Fallesgon for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26WNT-PELVIC-FLOOR-EXERCISES1-czbk/26WNT-PELVIC-FLOOR-EXERCISES1-czbk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26WNT-PELVIC-FLOOR-EXERCISES1-czbk/26WNT-PELVIC-FLOOR-EXERCISES1-czbk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/multimedia/26WNT-PELVIC-FLOOR-EXERCISES1-czbk/26WNT-PELVIC-FLOOR-EXERCISES1-czbk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/65888fba-e7cc-5f8c-9269-265a67eb80df",
+      "url": "https://www.nytimes.com/2023/02/22/travel/london-joshua-bell-recommendations.html",
+      "id": 100000008755254,
+      "asset_id": 100000008755254,
+      "source": "New York Times",
+      "published_date": "2023-02-22",
+      "updated": "2023-02-23 11:10:05",
+      "section": "Travel",
+      "subsection": "",
+      "nytdsection": "travel",
+      "adx_keywords": "Classical Music;Food;Travel and Vacations;Proms;Violins and Violas;Wigmore Hall (London, England, Music Venue);London (England)",
+      "column": null,
+      "byline": "By Danielle Pergament and Mary Turner",
+      "type": "Article",
+      "title": "Joshua Bell\u2019s London",
+      "abstract": "The celebrated violinist recommends five spots in Britain\u2019s capital, a city he\u2019s visited some 70 times since the 1980s.",
+      "des_facet": [
+        "Classical Music",
+        "Food",
+        "Travel and Vacations",
+        "Proms",
+        "Violins and Violas"
+      ],
+      "org_facet": [
+        "Wigmore Hall (London, England, Music Venue)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "London (England)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dusk falls over London\u2019s Royal Albert Hall, where Joshua Bell has performed at the famous Proms concerts.",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/03/multimedia/travel-london-joshua-bell-02/travel-london-joshua-bell-02-vkqp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/03/multimedia/travel-london-joshua-bell-02/travel-london-joshua-bell-02-vkqp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/03/multimedia/travel-london-joshua-bell-02/travel-london-joshua-bell-02-vkqp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/049204d0-c0f7-529b-8264-3e2ee8e3fcbe",
+      "url": "https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html",
+      "id": 100000008779991,
+      "asset_id": 100000008779991,
+      "source": "New York Times",
+      "published_date": "2023-02-21",
+      "updated": "2023-02-22 12:56:39",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Coronavirus (2019-nCoV);Masks;Research;Respiratory Diseases;Walensky, Rochelle;Cochrane Library;Centers for Disease Control and Prevention",
+      "column": null,
+      "byline": "By Bret Stephens",
+      "type": "Article",
+      "title": "The Mask Mandates Did Nothing. Will Any Lessons Be Learned?",
+      "abstract": "\u201cDo something\u201d is not science, and it shouldn\u2019t have been public policy.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Masks",
+        "Research",
+        "Respiratory Diseases"
+      ],
+      "org_facet": [
+        "Cochrane Library",
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [
+        "Walensky, Rochelle"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Benjamin Lowy",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/opinion/21stephens_1/21stephens_1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/opinion/21stephens_1/21stephens_1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/opinion/21stephens_1/21stephens_1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d27c4e38-536c-5f4b-a737-459c2e57affd",
+      "url": "https://www.nytimes.com/2023/02/23/climate/renewable-energy-us-electrical-grid.html",
+      "id": 100000008564221,
+      "asset_id": 100000008564221,
+      "source": "New York Times",
+      "published_date": "2023-02-23",
+      "updated": "2023-02-24 09:34:40",
+      "section": "Climate",
+      "subsection": "",
+      "nytdsection": "climate",
+      "adx_keywords": "Electric Light and Power;Alternative and Renewable Energy;Solar Energy;Wind Power;Batteries;Global Warming;Greenhouse Gas Emissions;Regulation and Deregulation of Industry;Infrastructure (Public Works);United States Politics and Government;PJM Interconnection;United States",
+      "column": null,
+      "byline": "By Brad Plumer",
+      "type": "Article",
+      "title": "The U.S. Has Billions for Wind and Solar Projects. Good Luck Plugging Them In.",
+      "abstract": "An explosion in proposed clean energy ventures has overwhelmed the system for connecting new power sources to homes and businesses.",
+      "des_facet": [
+        "Electric Light and Power",
+        "Alternative and Renewable Energy",
+        "Solar Energy",
+        "Wind Power",
+        "Batteries",
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Regulation and Deregulation of Industry",
+        "Infrastructure (Public Works)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "PJM Interconnection"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pouring concrete for a wind turbine in Nebraska. More than 8,100 energy projects were waiting for permission to connect to electric grids at the end of 2021.",
+          "copyright": "Walker Pickering for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/00cli-bottlenecks-01-gvkt/00cli-bottlenecks-01-gvkt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/00cli-bottlenecks-01-gvkt/00cli-bottlenecks-01-gvkt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/00cli-bottlenecks-01-gvkt/00cli-bottlenecks-01-gvkt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/aca1f36d-2311-507b-9d33-6b04d382bbd1",
+      "url": "https://www.nytimes.com/2023/02/22/world/europe/starbucks-olive-oil-coffee-italy.html",
+      "id": 100000008782040,
+      "asset_id": 100000008782040,
+      "source": "New York Times",
+      "published_date": "2023-02-22",
+      "updated": "2023-02-24 08:59:09",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Olive Oil;Coffee;Schultz, Howard D;Starbucks Corporation;Italy;Milan (Italy)",
+      "column": null,
+      "byline": "By Elisabetta Povoledo",
+      "type": "Article",
+      "title": "Want That Coffee With Olive Oil? Starbucks Thinks Italians Will.",
+      "abstract": "The company has amassed an audience in Italy, and now it is betting on two very Italian ingredients.",
+      "des_facet": [
+        "Olive Oil",
+        "Coffee"
+      ],
+      "org_facet": [
+        "Starbucks Corporation"
+      ],
+      "per_facet": [
+        "Schultz, Howard D"
+      ],
+      "geo_facet": [
+        "Italy",
+        "Milan (Italy)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Olive oil on display at a Starbucks in Milan on Wednesday. The company has introduced a line of coffee drinks that include olive oil, but the general population has yet to try them.",
+          "copyright": "Alex Fraser/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22italy-starbucks1-jvcg/22italy-starbucks1-jvcg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22italy-starbucks1-jvcg/22italy-starbucks1-jvcg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22italy-starbucks1-jvcg/22italy-starbucks1-jvcg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0b584f7a-6770-5b15-84e4-443b5e3ff29e",
+      "url": "https://www.nytimes.com/2023/02/23/opinion/jimmy-carter-malaise-speech.html",
+      "id": 100000008784049,
+      "asset_id": 100000008784049,
+      "source": "New York Times",
+      "published_date": "2023-02-23",
+      "updated": "2023-02-24 10:30:08",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Speeches and Statements;Polls and Public Opinion;Nineteen Hundred Seventies;Assassinations and Attempted Assassinations;United States Economy;United States Politics and Government;Oil (Petroleum) and Gasoline;Shortages;internal-sub-only-nl;Carter, Jimmy",
+      "column": null,
+      "byline": "By David French",
+      "type": "Article",
+      "title": "The Wisdom and Prophecy of Jimmy Carter\u2019s \u2018Malaise\u2019 Speech",
+      "abstract": "The irony is that it is better attuned to our time than to its own.",
+      "des_facet": [
+        "Speeches and Statements",
+        "Polls and Public Opinion",
+        "Nineteen Hundred Seventies",
+        "Assassinations and Attempted Assassinations",
+        "United States Economy",
+        "United States Politics and Government",
+        "Oil (Petroleum) and Gasoline",
+        "Shortages",
+        "internal-sub-only-nl"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Carter, Jimmy"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Ricardo Tom\u00e1s; photograph by Bettmann/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/25/opinion/23french-newsletter-image/23french-newsletter-image-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/25/opinion/23french-newsletter-image/23french-newsletter-image-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/25/opinion/23french-newsletter-image/23french-newsletter-image-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d91a17ec-bd8f-593a-b928-825fb310c7ad",
+      "url": "https://www.nytimes.com/2023/02/23/business/tech-startups-israel.html",
+      "id": 100000008772637,
+      "asset_id": 100000008772637,
+      "source": "New York Times",
+      "published_date": "2023-02-23",
+      "updated": "2023-02-24 11:16:07",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Computers and the Internet;Start-ups;Courts and the Judiciary;Politics and Government;Foreign Investments;Entrepreneurship;Law and Legislation;Economic Conditions and Trends;Netanyahu, Benjamin;Israel",
+      "column": null,
+      "byline": "By David Segal",
+      "type": "Article",
+      "title": "Tech Leaders in Israel Wonder if It\u2019s Time to Leave",
+      "abstract": "Ahead of a judicial overhaul that could transform the country and frighten away investors, the executives of Start-Up Nation are mulling an exodus.",
+      "des_facet": [
+        "Computers and the Internet",
+        "Start-ups",
+        "Courts and the Judiciary",
+        "Politics and Government",
+        "Foreign Investments",
+        "Entrepreneurship",
+        "Law and Legislation",
+        "Economic Conditions and Trends"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Netanyahu, Benjamin"
+      ],
+      "geo_facet": [
+        "Israel"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cGiven the atmosphere now, it\u2019s almost irresponsible to start a company\u201d in Israel, said Yanki Margalit, a veteran entrepreneur.",
+          "copyright": "Ofir Berman for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23israel-startups-01/phvk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23israel-startups-01/phvk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23israel-startups-01/phvk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e733fdf3-1701-5d30-95f2-048816f78604",
+      "url": "https://www.nytimes.com/2023/02/23/us/kentucky-revival-asbury-university.html",
+      "id": 100000008779823,
+      "asset_id": 100000008779823,
+      "source": "New York Times",
+      "published_date": "2023-02-23",
+      "updated": "2023-02-24 10:33:47",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Christians and Christianity;Colleges and Universities;Generation Z;internal-sub-only;Asbury University;Wilmore (Ky)",
+      "column": null,
+      "byline": "By Ruth Graham and Jesse Barber",
+      "type": "Article",
+      "title": "\u2018Woodstock\u2019 for Christians: Revival Draws Thousands to Kentucky Town",
+      "abstract": "Over two weeks, more than 50,000 people descended on a small campus chapel to experience the nation\u2019s first major spiritual revival in decades \u2014 one driven by Gen Z.",
+      "des_facet": [
+        "Christians and Christianity",
+        "Colleges and Universities",
+        "Generation Z",
+        "internal-sub-only"
+      ],
+      "org_facet": [
+        "Asbury University"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Wilmore (Ky)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students leading worship inside Hughes Chapel on the campus of Asbury University.",
+          "copyright": " ",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/us/00NAT-ASBURY-REVIVAL-top/00NAT-ASBURY-REVIVAL-top-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/us/00NAT-ASBURY-REVIVAL-top/00NAT-ASBURY-REVIVAL-top-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/us/00NAT-ASBURY-REVIVAL-top/00NAT-ASBURY-REVIVAL-top-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/918c6398-9dcd-547d-aad7-07a37ff65cf8",
+      "url": "https://www.nytimes.com/2023/02/21/opinion/17eks-ezra-klein-podcast-rachel-zoffness.html",
+      "id": 100000008754846,
+      "asset_id": 100000008754846,
+      "source": "New York Times",
+      "published_date": "2023-02-21",
+      "updated": "2023-02-22 10:53:21",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Pain;Psychology and Psychologists;Chronic Condition (Health);Therapy and Rehabilitation;Medicine and Health;Mental Health and Disorders;audio-neutral-informative;Zoffness, Rachel",
+      "column": null,
+      "byline": "By \u2018The Ezra Klein Show\u2019",
+      "type": "Article",
+      "title": "This Book Changed My Relationship to Pain",
+      "abstract": "The pain psychologist Rachel Zoffness explains how pain is a \u201cbiopsychosocial phenomenon\u201d \u2014 and how we can better treat it as such.",
+      "des_facet": [
+        "Pain",
+        "Psychology and Psychologists",
+        "Chronic Condition (Health)",
+        "Therapy and Rehabilitation",
+        "Medicine and Health",
+        "Mental Health and Disorders",
+        "audio-neutral-informative"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Zoffness, Rachel"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "DyAnn Chao",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/24/opinion/21eks-zoffness-image/21eks-zoffness-image-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/24/opinion/21eks-zoffness-image/21eks-zoffness-image-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/24/opinion/21eks-zoffness-image/21eks-zoffness-image-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2cccc97d-333b-5b51-b1d9-9dec3bfa50d1",
+      "url": "https://www.nytimes.com/2023/02/23/business/elizabeth-koch-perception-box.html",
+      "id": 100000008721731,
+      "asset_id": 100000008721731,
+      "source": "New York Times",
+      "published_date": "2023-02-23",
+      "updated": "2023-02-24 15:15:22",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Content Type: Personal Profile;High Net Worth Individuals;Psychedelic and Hallucinogenic Drugs;internal-sub-only;Emotions;Psychology and Psychologists;Koch, Elizabeth Robinson;Koch, Charles G;Unlikely Collaborators Inc;Koch Industries Inc",
+      "column": null,
+      "byline": "By Brooks Barnes",
+      "type": "Article",
+      "title": "The Billionaire\u2019s Daughter Knows What You\u2019re Thinking",
+      "abstract": "Elizabeth Koch, the daughter of the right-wing political force Charles Koch, is working to bridge societal divides. Sure, roll your eyes. But also, why not her?",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "High Net Worth Individuals",
+        "Psychedelic and Hallucinogenic Drugs",
+        "internal-sub-only",
+        "Emotions",
+        "Psychology and Psychologists"
+      ],
+      "org_facet": [
+        "Unlikely Collaborators Inc",
+        "Koch Industries Inc"
+      ],
+      "per_facet": [
+        "Koch, Elizabeth Robinson",
+        "Koch, Charles G"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ms. Koch is self-conscious about coming across as one of those \u201chippy dippy woo-woo people,\u201d as she put it.",
+          "copyright": "Philip Cheung for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23Koch-03-tmzb/23Koch-03-tmzb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23Koch-03-tmzb/23Koch-03-tmzb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23Koch-03-tmzb/23Koch-03-tmzb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e18be28a-1142-55af-ad2a-c3b2fe8969da",
+      "url": "https://www.nytimes.com/2023/01/24/well/colonoscopy-prep.html",
+      "id": 100000008680626,
+      "asset_id": 100000008680626,
+      "source": "New York Times",
+      "published_date": "2023-01-24",
+      "updated": "2023-02-14 08:41:25",
+      "section": "Well",
+      "subsection": "",
+      "nytdsection": "well",
+      "adx_keywords": "Colonoscopy;Colon;Colon and Colorectal Cancer;Content Type: Service;Laxatives;Tests (Medical);Diarrhea;Bowels",
+      "column": null,
+      "byline": "By Trisha Pasricha",
+      "type": "Article",
+      "title": "Wet Wipes and Jell-O: How to Prep for Your First Colonoscopy",
+      "abstract": "Millions of people get colonoscopies each year to screen for colorectal cancer. Experts share strategies that can make the experience as smooth as possible.",
+      "des_facet": [
+        "Colonoscopy",
+        "Colon",
+        "Colon and Colorectal Cancer",
+        "Content Type: Service",
+        "Laxatives",
+        "Tests (Medical)",
+        "Diarrhea",
+        "Bowels"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lucy Hewett for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/01/23/multimedia/23WELL-COLONOSCOPY-PREP10-cfpj/23WELL-COLONOSCOPY-PREP10-cfpj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/01/23/multimedia/23WELL-COLONOSCOPY-PREP10-cfpj/23WELL-COLONOSCOPY-PREP10-cfpj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/01/23/multimedia/23WELL-COLONOSCOPY-PREP10-cfpj/23WELL-COLONOSCOPY-PREP10-cfpj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/44d1c8d4-e00b-55d8-9b89-03668e43662a",
+      "url": "https://www.nytimes.com/2023/02/22/style/blundstone-boots.html",
+      "id": 100000008763869,
+      "asset_id": 100000008763869,
+      "source": "New York Times",
+      "published_date": "2023-02-22",
+      "updated": "2023-02-24 17:25:33",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Shoes and Boots;Shopping and Retail;Two Thousand Twenties (Decade);Blundstone Australia Pty Ltd",
+      "column": null,
+      "byline": "By Max Berlinger",
+      "type": "Article",
+      "title": "Have You Clocked These Boots?",
+      "abstract": "Every so often, a specific boot gets associated with a certain era. Will Blundstone\u2019s Chelsea boots be the defining style of the early 2020s?",
+      "des_facet": [
+        "Shoes and Boots",
+        "Shopping and Retail",
+        "Two Thousand Twenties (Decade)"
+      ],
+      "org_facet": [
+        "Blundstone Australia Pty Ltd"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Blundstone\u2019s Chelsea boots can be identified by logos subtly embossed on their soles and embroidered on their pull-on straps.",
+          "copyright": "Blundstone",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/fashion/22BLUNDSTONE-01-mtcj/22BLUNDSTONE-01-mtcj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/fashion/22BLUNDSTONE-01-mtcj/22BLUNDSTONE-01-mtcj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/26/fashion/22BLUNDSTONE-01-mtcj/22BLUNDSTONE-01-mtcj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/db645fc7-59f6-58f8-81c0-1f34c89b3466",
+      "url": "https://www.nytimes.com/2023/02/20/opinion/kai-bird-jimmy-carter-life.html",
+      "id": 100000008778155,
+      "asset_id": 100000008778155,
+      "source": "New York Times",
+      "published_date": "2023-02-20",
+      "updated": "2023-02-23 15:08:39",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidents and Presidency (US);Politics and Government;Presidential Election of 1980;Content Type: Personal Profile;United States Politics and Government;Carter, Jimmy",
+      "column": null,
+      "byline": "By Kai Bird",
+      "type": "Article",
+      "title": "Jimmy Carter\u2019s Presidency Was Not What You Think",
+      "abstract": "Jimmy Carter was probably the most intelligent, hard-working and decent man to have occupied the Oval Office in the 20th century.",
+      "des_facet": [
+        "Presidents and Presidency (US)",
+        "Politics and Government",
+        "Presidential Election of 1980",
+        "Content Type: Personal Profile",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Carter, Jimmy"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/opinion/20birdNew/20birdNew-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/opinion/20birdNew/20birdNew-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/opinion/20birdNew/20birdNew-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1d9bbceb-2cc6-588c-a00e-fe4029e9b29b",
+      "url": "https://www.nytimes.com/2023/02/22/world/americas/mexico-election-law.html",
+      "id": 100000008688945,
+      "asset_id": 100000008688945,
+      "source": "New York Times",
+      "published_date": "2023-02-22",
+      "updated": "2023-02-22 23:23:30",
+      "section": "World",
+      "subsection": "Americas",
+      "nytdsection": "world",
+      "adx_keywords": "Politics and Government;Law and Legislation;Elections;Lopez Obrador, Andres Manuel;National Electoral Institute (Mexico);Morena (Mexican Political Party);Mexico",
+      "column": null,
+      "byline": "By Natalie Kitroeff",
+      "type": "Article",
+      "title": "Mexico Hobbles Election Agency That Helped End One-Party Rule",
+      "abstract": "The changes come ahead of a presidential election next year and are part of a pattern of challenges to democratic institutions across the Western Hemisphere.",
+      "des_facet": [
+        "Politics and Government",
+        "Law and Legislation",
+        "Elections"
+      ],
+      "org_facet": [
+        "National Electoral Institute (Mexico)",
+        "Morena (Mexican Political Party)"
+      ],
+      "per_facet": [
+        "Lopez Obrador, Andres Manuel"
+      ],
+      "geo_facet": [
+        "Mexico"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Thousands of people packed Mexico City\u2019s Z\u00f3calo in November to support President Andr\u00e9s Manuel L\u00f3pez Obrador\u2019s proposed electoral changes.",
+          "copyright": "Luis Antonio Rojas for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/12/15/multimedia/00mexico-elections-HFO-1-f4c7/00mexico-elections-HFO-1-f4c7-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/12/15/multimedia/00mexico-elections-HFO-1-f4c7/00mexico-elections-HFO-1-f4c7-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/12/15/multimedia/00mexico-elections-HFO-1-f4c7/00mexico-elections-HFO-1-f4c7-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b13b5247-8177-58f1-887d-08bb8e9c436c",
+      "url": "https://www.nytimes.com/2023/02/03/well/live/ozempic-wegovy-weight-loss.html",
+      "id": 100000008735492,
+      "asset_id": 100000008735492,
+      "source": "New York Times",
+      "published_date": "2023-02-03",
+      "updated": "2023-02-23 16:27:13",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Diabetes;Weight;Drugs (Pharmaceuticals);Diet and Nutrition;Ozempic (Drug)",
+      "column": null,
+      "byline": "By Dani Blum",
+      "type": "Article",
+      "title": "Ozempic Can Cause Major Weight Loss. What Happens if You Stop Taking It?",
+      "abstract": "As more patients turn to diabetes medications for other uses, a shortage has taken hold. But doctors say going off these drugs can take a toll.",
+      "des_facet": [
+        "Diabetes",
+        "Weight",
+        "Drugs (Pharmaceuticals)",
+        "Diet and Nutrition",
+        "Ozempic (Drug)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ryan David Brown for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/01/31/multimedia/OZEMPIC-STOP-TAKING1-kwml/OZEMPIC-STOP-TAKING1-kwml-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/01/31/multimedia/OZEMPIC-STOP-TAKING1-kwml/OZEMPIC-STOP-TAKING1-kwml-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/01/31/multimedia/OZEMPIC-STOP-TAKING1-kwml/OZEMPIC-STOP-TAKING1-kwml-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3f88dfd5-a20f-5c97-9bc1-1825c95605b8",
+      "url": "https://www.nytimes.com/2023/02/22/opinion/democrats-republicans-education-racial-resentment.html",
+      "id": 100000008414004,
+      "asset_id": 100000008414004,
+      "source": "New York Times",
+      "published_date": "2023-02-22",
+      "updated": "2023-02-22 12:54:41",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Race and Ethnicity;Midterm Elections (2022);United States Politics and Government;United States Economy;Minorities;Rural Areas;Presidential Election of 2020;Polls and Public Opinion;Income Inequality;Republican Party;Democratic Party",
+      "column": null,
+      "byline": "By Thomas B. Edsall",
+      "type": "Article",
+      "title": "The Forces Tearing Us Apart Are Not Quite What They Seem",
+      "abstract": "Educational polarization matters, but racial resentment matters more.",
+      "des_facet": [
+        "Race and Ethnicity",
+        "Midterm Elections (2022)",
+        "United States Politics and Government",
+        "United States Economy",
+        "Minorities",
+        "Rural Areas",
+        "Presidential Election of 2020",
+        "Polls and Public Opinion",
+        "Income Inequality"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22edsall-1NEW-jvmk/22edsall-1NEW-jvmk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22edsall-1NEW-jvmk/22edsall-1NEW-jvmk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22edsall-1NEW-jvmk/22edsall-1NEW-jvmk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/63ed62fa-e48b-5df0-b080-f29cc05b1c1e",
+      "url": "https://www.nytimes.com/2023/02/22/movies/ai-movies-microsoft-bing-robots.html",
+      "id": 100000008781684,
+      "asset_id": 100000008781684,
+      "source": "New York Times",
+      "published_date": "2023-02-22",
+      "updated": "2023-02-23 17:53:06",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Movies;Artificial Intelligence;Computers and the Internet;Robots and Robotics;ChatGPT;Microsoft Corp",
+      "column": null,
+      "byline": "By A.O. Scott",
+      "type": "Article",
+      "title": "When the Movies Pictured A.I., They Imagined the Wrong Disaster",
+      "abstract": "Instead of the chilling rationality of HAL in \u201c2001: A Space Odyssey,\u201d we get the messy awfulness of Microsoft\u2019s Sydney. Call it the banality of sentience.",
+      "des_facet": [
+        "Movies",
+        "Artificial Intelligence",
+        "Computers and the Internet",
+        "Robots and Robotics",
+        "ChatGPT"
+      ],
+      "org_facet": [
+        "Microsoft Corp"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "HAL 9000, the malevolent computer in Stanley Kubrick\u2019s \u201c2001: A Space Odyssey\u201d (1968), is terrifying precisely because he is so ordinary.",
+          "copyright": "Warner Bros.",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22ai-notebook-01-jcvm/22ai-notebook-01-jcvm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22ai-notebook-01-jcvm/22ai-notebook-01-jcvm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22ai-notebook-01-jcvm/22ai-notebook-01-jcvm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0e828f34-5edf-5374-9ced-8cb11fb7920f",
+      "url": "https://www.nytimes.com/2023/01/11/well/move/bodyweight-strength-workout.html",
+      "id": 100000008672893,
+      "asset_id": 100000008672893,
+      "source": "New York Times",
+      "published_date": "2023-01-11",
+      "updated": "2023-01-24 00:46:36",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "Exercise;Weight Lifting;Legs;Content Type: Service",
+      "column": null,
+      "byline": "By Rachel Fairbank",
+      "type": "Article",
+      "title": "You Can Do This 10-Minute Workout at Home With No Equipment",
+      "abstract": "Build strength and mobility anywhere, anytime.",
+      "des_facet": [
+        "Exercise",
+        "Weight Lifting",
+        "Legs",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Theo Stroomer for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/01/11/multimedia/11BODYWEIGHT-STRENGTH-TRAINING10-wjvb/11BODYWEIGHT-STRENGTH-TRAINING10-wjvb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/01/11/multimedia/11BODYWEIGHT-STRENGTH-TRAINING10-wjvb/11BODYWEIGHT-STRENGTH-TRAINING10-wjvb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/01/11/multimedia/11BODYWEIGHT-STRENGTH-TRAINING10-wjvb/11BODYWEIGHT-STRENGTH-TRAINING10-wjvb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/19d477e4-b2c4-590a-9ff4-7f24f7d7528a",
+      "url": "https://www.nytimes.com/2023/02/22/opinion/america-right-wing-censors.html",
+      "id": 100000008781959,
+      "asset_id": 100000008781959,
+      "source": "New York Times",
+      "published_date": "2023-02-22",
+      "updated": "2023-02-23 12:03:14",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Right-Wing Extremism and Alt-Right;Critical Race Theory;Race and Ethnicity;Discrimination;Censorship;United States Politics and Government;Rufo, Christopher F;Roy, Chip (1972- );DeSantis, Ron;Texas;Florida",
+      "column": null,
+      "byline": "By Charles M. Blow",
+      "type": "Article",
+      "title": "America, Right-Wing Censors and the \u2018Battle for the Next Century\u2019",
+      "abstract": "This is the New Right\u2019s strategic plan: a relentless push to strengthen the white-supremacist power structure.",
+      "des_facet": [
+        "Right-Wing Extremism and Alt-Right",
+        "Critical Race Theory",
+        "Race and Ethnicity",
+        "Discrimination",
+        "Censorship",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Rufo, Christopher F",
+        "Roy, Chip (1972- )",
+        "DeSantis, Ron"
+      ],
+      "geo_facet": [
+        "Texas",
+        "Florida"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left, Senator Marco Rubio, Representative Chip Roy, Gov. Ron DeSantis and Chris Rufo",
+          "copyright": "From left to right: Erin Schaff/The New York Times; Anna Moneymaker for The New York Times; Maddie McGarvey for The New York; Chona Kasinger for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/opinion/22blow_3/22blow_3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/opinion/22blow_3/22blow_3-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/22/opinion/22blow_3/22blow_3-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a1980427-180c-5c01-b029-c805618b1cbc",
+      "url": "https://www.nytimes.com/2023/02/23/sports/cycling/ashton-lambie-cycling.html",
+      "id": 100000008356269,
+      "asset_id": 100000008356269,
+      "source": "New York Times",
+      "published_date": "2023-02-23",
+      "updated": "2023-02-24 00:01:10",
+      "section": "Sports",
+      "subsection": "Cycling",
+      "nytdsection": "sports",
+      "adx_keywords": "Cycling, Track;Cycling, Road;Sailboats and Sailing;Content Type: Personal Profile;Lambie, Ashton",
+      "column": null,
+      "byline": "By Kevin Draper",
+      "type": "Article",
+      "title": "The Cycling Champion Who Doesn\u2019t Have to Win to Be Satisfied",
+      "abstract": "Ashton Lambie won a world championship in individual pursuit 16 months ago. Winning was great, he said, but now he just wants to explore.",
+      "des_facet": [
+        "Cycling, Track",
+        "Cycling, Road",
+        "Sailboats and Sailing",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Lambie, Ashton"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christopher Smith for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23lambie-01-mfjc/23lambie-01-mfjc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23lambie-01-mfjc/23lambie-01-mfjc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/02/23/multimedia/23lambie-01-mfjc/23lambie-01-mfjc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

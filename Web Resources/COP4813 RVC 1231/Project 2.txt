@@ -1,0 +1,471 @@
+#TODO: in the terminal available at the bottom menu bar,
+# install the following packages: flask flask-wtf wtforms requests
+
+from flask import Flask, request, render_template
+from flask_wtf import FlaskForm
+from wtforms import SubmitField, SelectField, IntegerField, validators
+import requests
+import os
+import json
+
+import main_functions
+
+#TODO: create an instance of a Flask web app and call it app
+app = Flask(__name__)
+app.config['SECRET_KEY']=os.urandom(16).hex()
+
+""" ----------- I - JSON DOCUMENTS ----------- """
+def save_to_file(data,filename):
+    with open(filename,'w') as write_file:
+        json.dump(data,write_file,indent=2)
+
+def read_from_file(filename):
+    with open(filename,'r') as read_file:
+        data = json.load(read_file)
+    return data
+
+""" ----------- 2 - API KEY ----------- """
+#TODO: read from the api_key.json file and assign your API key to a variable named api_key
+msx_key = main_functions.read_from_file("theFIUMusicWebApp/api_key.json")
+app_api = msx_key["my_key"]
+
+""" ----------- 3 - USEFUL LISTS ----------- """
+#TODO: read from the countries.json file and assign its value to a variable named countries
+
+countries_dict = read_from_file('countries.json')
+countries = countries_dict
+countries_list = list(countries.keys()) #this line of code is done for you, it creates a list containing all the country names
+
+#variable charts is done for you, it provides a list of possible chart names for the user to select from
+charts = [("top", "Editorial Chart"),
+          ("hot", "Most viewed lyrics in the last 2 hours"),
+          ("mxmweekly", "Most viewed lyrics in the last 7 days"),
+          ("mxmweekly_new", "Most viewed lyrics in the last 7 days limited to new releases only")]
+
+#variable number of results is done for you, it provides 4 options for the user to select from
+number_of_results = [5,10,15,20]
+
+""" ----------- FORMS ----------- """
+#TODO: define a class named Search and include 3 input fields:
+# - select field named country
+# - select field named chartType
+# - integer field named numberResults (let the user only enter an integer from 1 to 10)
+
+class Search(FlaskForm):
+    country = SelectField('Country', choices=countries_list)
+    chartType = SelectField('Chart Type', choices=charts)
+    numberResults = IntegerField('Results', validators=[validators.NumberRange(min=1,max=10)])
+    submit=SubmitField()
+
+""" ----------- API CALLS ----------- """
+#TODO: complete this function definition by filling out the missing:
+#  - input arguments of the function
+#  - the API request to the defined url
+#  - saving the response of the API request to file
+#  - returning the response of the API request
+def request_top_artists(country_code, number_of_results, app_api):
+    top_artists_url="https://api.musixmatch.com/ws/1.1/chart.artists.get?country={0}&page_size={1}&apikey={2}"\
+        .format(country_code, number_of_results, app_api)
+    response = requests.get(top_artists_url).json()
+    return response
+
+# TODO: complete this function definition by filling out the missing:
+#  - input arguments of the function
+#  - the API request to the defined url
+#  - saving the response of the API request to file
+#  - returning the response of the API request
+def request_top_tracks(country_code, chart_name, number_of_results, app_api):
+    top_tracks_url="https://api.musixmatch.com/ws/1.1/chart.tracks.get?country={0}&chart_name={1}&page_size={2}&apikey={3}"\
+        .format(country_code,chart_name, number_of_results, app_api)
+    response2 = requests.get(top_tracks_url).json()
+    return response2
+
+""" ----------- ROUTES ----------- """
+#TODO: finish writing the index() function by:
+#  - assigning the Search form into a variable named form
+#  - getting the input data from the user for the fields:
+#    - country
+#    - chartType
+#    - numberResults
+#  - iterate over the artist list inside the top_artists variable
+#  and append the artist names to the list list_of_artists
+#  - iterate over the track list inside the top_track variable
+#  and append the track names, artist names, and share urls to the list list_of_artists
+
+@app.route('/', methods=["GET","POST"])
+def index():
+    form = Search(request.form)
+    if request.method == "POST":
+        countrySelected = request.form['country']
+        chartSelected = request.form['chartType']
+        numberResults = request.form['quantity']
+        """ TOP ARTISTS PER COUNTRY """
+        top_artists = request_top_artists(countries[countrySelected],numberResults)
+        list_of_artists = []
+        for i in top_artists:
+            list_of_artists = (i["track"]["artists"])
+            list_of_artists.append(list_of_artists)
+
+        """ TOP TRACKS PER COUNTRY AND CHART"""
+        top_tracks = request_top_tracks(countries[countrySelected], chartSelected,numberResults)
+        list_of_tracks = []
+        for i in top_tracks['message']['body']['track_list']:
+            list_of_artists = (i["track"]['track_name'], i["track"]['artists_name'], i['track']['share_ur'])
+            list_of_tracks.append(list_of_artists)
+        return render_template('results.html', list_of_artists=list_of_artists, list_of_tracks=list_of_tracks,
+                               country=countrySelected, quantity=numberResults)
+    return render_template('index.html', form=form)
+
+    #TODO: in the index.html file (line 64), include the input form
+#TODO: in the results.html file (lines 68 and 69), fill out the
+# table such that in each row, we see the track name,
+# the artist name, and a clickable link for the lyrics
+
+if __name__ == '__main__':
+    app.run(port=5050,debug=True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>FIU Music</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <link href="../static/img/favicon.png" rel="icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Poppins:300,400,500,700" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="../static/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="../static/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="../static/lib/animate/animate.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="../static/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+    Theme Name: Regna
+    Theme URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
+    Author: BootstrapMade.com
+    License: https://bootstrapmade.com/license/
+  ======================================================= -->
+</head>
+
+<body>
+
+  <!--==========================
+  Header
+  ============================-->
+  <header id="header">
+    <div class="container">
+
+      <div id="logo" class="pull-left">
+        <a href="https://fiu.edu"><img src="../static/img/fiu.png" alt="" title=""style=" width:100px;height:45px;" /></a>
+
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="menu-active"><a href="#"></a>Home</li>
+          <li><a href="https://canvas.fiu.edu">Canvas</a></li>
+          <li><a href="https://www.gregoryreis.com">Professor</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+
+  <section id="hero">
+    <div class="hero-container">
+      <h1>Welcome to the FIU Music Web App</h1>
+      <h2>Discover new music and artists!</h2>
+      <div>
+        <form method='GET' action="/">
+          {{ form.csrf_token }}
+          <p>
+            Select a Country
+            {{ form.country() }}
+          </p>
+          <p>
+            Select a Chart
+            {{ form.chartType() }}
+          </p>
+          <p>
+            Select a Quantity
+            {{ form.quantity() }}
+          </p>
+          <input type="submit" class="btn-get-started" value="Submit">
+        </form>
+      </div>
+      <br>
+
+
+    </div>
+  </section>
+
+  <main id="main">
+
+
+    <section id="portfolio">
+      <div class="container wow fadeInUp">
+        <div class="section-header">
+          <h3 class="section-title">Discover New Music and Artists</h3>
+            <p class="section-description">Using the Musixmatch Developer API, we will provide the top artists and tracks per country.</p>
+
+        </div>
+      </div>
+  </section>
+
+
+
+
+
+  </main>
+
+  <!--==========================
+    Footer
+  ============================-->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>FIU Music App</strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+
+        Designed by Gregory Murad Reis using <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+  <!-- JavaScript Libraries -->
+  <script src="../static/lib/jquery/jquery.min.js"></script>
+  <script src="../static/lib/jquery/jquery-migrate.min.js"></script>
+  <script src="../static/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../static/lib/easing/easing.min.js"></script>
+  <script src="../static/lib/wow/wow.min.js"></script>
+  <script src="../static/lib/waypoints/waypoints.min.js"></script>
+  <script src="../static/lib/counterup/counterup.min.js"></script>
+  <script src="../static/lib/superfish/hoverIntent.js"></script>
+  <script src="../static/lib/superfish/superfish.min.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="../static/contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="../static/js/main.js"></script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>FIU Music</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <link href="../static/img/favicon.png" rel="icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Poppins:300,400,500,700" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="../static/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="../static/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="../static/lib/animate/animate.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="../static/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+    Theme Name: Regna
+    Theme URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
+    Author: BootstrapMade.com
+    License: https://bootstrapmade.com/license/
+  ======================================================= -->
+</head>
+
+<body>
+
+  <!--==========================
+  Header
+  ============================-->
+  <header id="header">
+    <div class="container">
+
+      <div id="logo" class="pull-left">
+        <a href="https://fiu.edu"><img src="../static/img/fiu.png" alt="" title=""style=" width:100px;height:45px;" /></a>
+
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="menu-active"><a href="#"></a>Home</li>
+          <li><a href="https://canvas.fiu.edu">Canvas</a></li>
+          <li><a href="https://www.gregoryreis.com">Professor</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+
+<section id="hero">
+    <div class="hero-container">
+      <h1>Welcome to the FIU Music Web App</h1>
+      <h2>Discover new music and artists!</h2>
+
+      <div class="row" style="column-gap: 80px;">
+        <div class="column">
+          <h3>Top {{ quantity }} Artists </h3>
+           <h3> in {{ country }}:</h3>
+
+          <form method='POST' action="/">
+          {{ form.csrf_token }}
+          <p>
+            Select a Country
+            {{ form.country() }}
+          </p>
+          <p>
+            Select a Chart
+            {{ form.chartType() }}
+          </p>
+          <p>
+            Select a Quantity
+            {{ form.quantity() }}
+          </p>
+          <input type="submit" class="btn-get-started" value="Submit">
+        </form>
+
+        </div>
+        <div class="column">
+         <h3>Top {{ quantity }} Tracks </h3>
+           <h3> in {{ country }}:</h3>
+          <table class="styled-table">
+          <tr>
+            <th>Track Name</th><th>Artist Name</th><th>Lyrics</th>
+        </tr>
+
+        # TODO: fill out this table such that in each row, we see the
+        # track name, the artist name, and a clickable link for the lyrics
+
+
+        </table>
+        </div>
+      </div>
+
+      <div>
+        <a class="btn-get-started" href={{ url_for('index') }}>Return</a>
+      </div>
+      <br>
+
+
+    </div>
+  </section><!-- #hero -->
+
+
+  <main id="main">
+
+
+
+
+
+
+
+  </main>
+
+  <!--==========================
+    Footer
+  ============================-->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>FIU Music App</strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+
+        Designed by Gregory Murad Reis using <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+  <!-- JavaScript Libraries -->
+  <script src="../static/lib/jquery/jquery.min.js"></script>
+  <script src="../static/lib/jquery/jquery-migrate.min.js"></script>
+  <script src="../static/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../static/lib/easing/easing.min.js"></script>
+  <script src="../static/lib/wow/wow.min.js"></script>
+  <script src="../static/lib/waypoints/waypoints.min.js"></script>
+  <script src="../static/lib/counterup/counterup.min.js"></script>
+  <script src="../static/lib/superfish/hoverIntent.js"></script>
+  <script src="../static/lib/superfish/superfish.min.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="../static/contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="../static/js/main.js"></script>
+
+</body>
+</html>
+
+
+

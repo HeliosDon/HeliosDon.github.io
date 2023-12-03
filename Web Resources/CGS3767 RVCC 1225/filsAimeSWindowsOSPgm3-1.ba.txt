@@ -1,0 +1,47 @@
+::********************************************************************
+::    Author    : Sarika Fils-Aime
+::    Course    : CGS3767
+::    Professor : Michael Robinson 
+::    Program # : Pgm3 
+::                 Windows portion
+::                
+::    Due Date  : 07/13/2022 
+::                 
+::    Certification: 
+::    I hereby certify that this work is my own and none of it is the work of any other person. 
+::---------------(  Sarika Fils-Aime )----------------
+::*********************************************************************/
+@echo off
+
+echo Sarika Fils-Aime
+
+ECHO Sarika Fils-Aime >> results.txt
+ECHO %date% %time% >> results.txt
+
+:Start
+set /P FirstNumber=Enter First Number:
+if %FirstNumber% == 22 GOTO :Part2
+
+set /P SecondNumber=Enter Second Number: 
+if %SecondNumber% == 44 GOTO :Part2
+
+:zero
+if %SecondNumber% == 0 GOTO :Exit
+if %SecondNumber% == 44 GOTO :Part2
+
+GOTO :division
+
+:Exit
+echo Cannot divide by zero, please enter valid second number.
+set /P SecondNumber=Second Number: 
+GOTO :zero
+
+:division
+set /A divide=%FirstNumber%/%SecondNumber%
+echo %FirstNumber% divided by %SecondNumber% = %divide%
+echo %FirstNumber% divided by %SecondNumber% = %divide% >> results.txt
+
+GOTO :Start
+
+:Part2
+echo End of program

@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+/* headings */
+
+.header {
+    font-size: 50px;
+}
+
+.header-2 {
+    font-weight: 300px;
+    font-size: 42px;
+}
+
+h4 {
+    color: gray;
+    font-size: 21px;
+}
+
+/* media */
+
+#link {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+.camp {
+    padding: auto;
+}
+
+.icon {
+    padding: 10px auto; 
+    margin: auto; 
+}
+
+/* footer */
+
+footer {
+    color: gray;
+    text-align: right;
+}
