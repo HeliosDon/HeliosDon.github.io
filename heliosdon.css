@@ -1,8 +1,8 @@
 
 @font-face {
     font-family: 'firesideregular';
-    src: url('../Fonts/Fireside/webfontkit/fireside-fireside-400-webfont.woff2') format('woff2'),
-         url('../Fonts/Fireside/webfontkit/fireside-fireside-400-webfont.woff') format('woff');
+    src: url('./Fonts/Fireside/webfontkit/fireside-fireside-400-webfont.woff2') format('woff2'),
+         url('./Fonts/Fireside/webfontkit/fireside-fireside-400-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -10,12 +10,12 @@
 
 @font-face {
     font-family: 'destroyregular';
-    src: url('../Fonts/Destroy/DESTROY_-webfont.eot');
-    src: url('../Fonts/Destroy/DESTROY_-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../Fonts/Destroy/DESTROY_-webfont.woff2') format('woff2'),
-         url('../Fonts/Destroy/DESTROY_-webfont.woff') format('woff'),
-         url('../Fonts/Destroy/DESTROY_-webfont.ttf') format('truetype'),
-         url('../Fonts/Destroy/DESTROY_-webfont.svg#destroyregular') format('svg');
+    src: url('./Fonts/Destroy/DESTROY_-webfont.eot');
+    src: url('./Fonts/Destroy/DESTROY_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./Fonts/Destroy/DESTROY_-webfont.woff2') format('woff2'),
+         url('./Fonts/Destroy/DESTROY_-webfont.woff') format('woff'),
+         url('./Fonts/Destroy/DESTROY_-webfont.ttf') format('truetype'),
+         url('./Fonts/Destroy/DESTROY_-webfont.svg#destroyregular') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -23,12 +23,12 @@
 
 @font-face {
     font-family: 'boycottregular';
-    src: url('../Fonts/Boycott/BOYCOTT_-webfont.eot');
-    src: url('../Fonts/Boycott/BOYCOTT_-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../Fonts/Boycott/BOYCOTT_-webfont.woff2') format('woff2'),
-         url('../Fonts/Boycott/BOYCOTT_-webfont.woff') format('woff'),
-         url('../Fonts/Boycott/BOYCOTT_-webfont.ttf') format('truetype'),
-         url('../Fonts/Boycott/BOYCOTT_-webfont.svg#boycottregular') format('svg');
+    src: url('./Fonts/Boycott/BOYCOTT_-webfont.eot');
+    src: url('./Fonts/Boycott/BOYCOTT_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./Fonts/Boycott/BOYCOTT_-webfont.woff2') format('woff2'),
+         url('./Fonts/Boycott/BOYCOTT_-webfont.woff') format('woff'),
+         url('./Fonts/Boycott/BOYCOTT_-webfont.ttf') format('truetype'),
+         url('./Fonts/Boycott/BOYCOTT_-webfont.svg#boycottregular') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -36,12 +36,12 @@
 
 @font-face {
     font-family: 'old_stamperregular';
-    src: url('../Fonts/Old Stamper/old_stamper-webfont.eot');
-    src: url('../Fonts/Old Stamper/old_stamper-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../Fonts/Old Stamper/old_stamper-webfont.woff2') format('woff2'),
-         url('../Fonts/Old Stamper/old_stamper-webfont.woff') format('woff'),
-         url('../Fonts/Old Stamper/old_stamper-webfont.ttf') format('truetype'),
-         url('../Fonts/Old Stamper/old_stamper-webfont.svg#old_stamperregular') format('svg');
+    src: url('./Fonts/Old Stamper/old_stamper-webfont.eot');
+    src: url('./Fonts/Old Stamper/old_stamper-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./Fonts/Old Stamper/old_stamper-webfont.woff2') format('woff2'),
+         url('./Fonts/Old Stamper/old_stamper-webfont.woff') format('woff'),
+         url('./Fonts/Old Stamper/old_stamper-webfont.ttf') format('truetype'),
+         url('./Fonts/Old Stamper/old_stamper-webfont.svg#old_stamperregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -49,36 +49,36 @@
 
 @font-face {
     font-family: '1942_report';
-    src: url('../Fonts/1942 report/1942-webfont.eot');
-    src: url('../Fonts/1942 report/1942-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../Fonts/1942 report/1942-webfont.woff2') format('woff2'),
-         url('../Fonts/1942 report/1942-webfont.woff') format('woff'),
-         url('../Fonts/1942 report/1942-webfont.ttf') format('truetype'),
-         url('../Fonts/1942 report/1942-webfont.svg#1942_report1942_report') format('svg');
+    src: url('./Fonts/1942 report/1942-webfont.eot');
+    src: url('./Fonts/1942 report/1942-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./Fonts/1942 report/1942-webfont.woff2') format('woff2'),
+         url('./Fonts/1942 report/1942-webfont.woff') format('woff'),
+         url('./Fonts/1942 report/1942-webfont.ttf') format('truetype'),
+         url('./Fonts/1942 report/1942-webfont.svg#1942_report1942_report') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'amerika_sansregular';
-    src: url('../Fonts/Amerika/regularsans/AMERSN__-webfont.eot');
-    src: url('../Fonts/Amerika/regularsans/AMERSN__-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../Fonts/Amerika/regularsans/AMERSN__-webfont.woff2') format('woff2'),
-         url('../Fonts/Amerika/regularsans/AMERSN__-webfont.woff') format('woff'),
-         url('../Fonts/Amerika/regularsans/AMERSN__-webfont.ttf') format('truetype'),
-         url('../Fonts/Amerika/regularsans/AMERSN__-webfont.svg#amerika_sansregular') format('svg');
+    src: url('./Fonts/Amerika/regularsans/AMERSN__-webfont.eot');
+    src: url('./Fonts/Amerika/regularsans/AMERSN__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./Fonts/Amerika/regularsans/AMERSN__-webfont.woff2') format('woff2'),
+         url('./Fonts/Amerika/regularsans/AMERSN__-webfont.woff') format('woff'),
+         url('./Fonts/Amerika/regularsans/AMERSN__-webfont.ttf') format('truetype'),
+         url('./Fonts/Amerika/regularsans/AMERSN__-webfont.svg#amerika_sansregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'yataghan';
-    src: url('../Fonts/Yataghan/yataghan-webfont.eot');
-    src: url('../Fonts/Yataghan/yataghan-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../Fonts/Yataghan/yataghan-webfont.woff2') format('woff2'),
-         url('../Fonts/Yataghan/yataghan-webfont.woff') format('woff'),
-         url('../Fonts/Yataghan/yataghan-webfont.ttf') format('truetype'),
-         url('../Fonts/Yataghan/yataghan-webfont.svg#yataghanregular') format('svg');
+    src: url('./Fonts/Yataghan/yataghan-webfont.eot');
+    src: url('./Fonts/Yataghan/yataghan-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./Fonts/Yataghan/yataghan-webfont.woff2') format('woff2'),
+         url('./Fonts/Yataghan/yataghan-webfont.woff') format('woff'),
+         url('./Fonts/Yataghan/yataghan-webfont.ttf') format('truetype'),
+         url('./Fonts/Yataghan/yataghan-webfont.svg#yataghanregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
