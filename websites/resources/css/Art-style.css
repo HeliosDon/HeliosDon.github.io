@@ -209,9 +209,9 @@ p {
 }
 
 figure {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+    margin: 10;
+    padding: 10;
+    overflow: scroll;
     border-radius: 8px; /* Rounded corners for the tiles */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Slight shadow */
     background-color: #fff;

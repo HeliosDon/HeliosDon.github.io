@@ -200,7 +200,7 @@ p {
     text-decoration: none;
   }
 
-.gallery {
+  .gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 20px;
@@ -209,9 +209,9 @@ p {
 }
 
 figure {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+    margin: 10;
+    padding: 10;
+    overflow: scroll;
     border-radius: 8px; /* Rounded corners for the tiles */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Slight shadow */
     background-color: #fff;
@@ -219,7 +219,7 @@ figure {
 
 figure img {
     width: 100%; /* Make the image fill the width of the tile */
-    height: 200px; /* Fixed height for uniformity */
+    height: 400px; /* Fixed height for uniformity */
     object-fit: cover; /* Ensures the image covers the tile area without distortion */
     transition: transform 0.3s ease; /* Smooth zoom effect on hover */
 }
@@ -233,10 +233,6 @@ figure video {
     height: 200px; /* Fixed height for uniformity */
     object-fit: cover; /* Ensures the image covers the tile area without distortion */
     transition: transform 0.3s ease; /* Smooth zoom effect on hover */
-}
-
-figure:hover video {
-    transform: scale(1.05); /* Slight zoom effect when hovering over the image */
 }
 
 figcaption {
