@@ -116,7 +116,7 @@ nav ul {
 
 nav li{
     display: inline-block;
-    width: 20%;
+    width: fit-content;
     margin-right: -4px;
 }
 
